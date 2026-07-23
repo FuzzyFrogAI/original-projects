@@ -28,7 +28,6 @@ En este laboratorio vas a explorar tres decisiones clave detrás de convertir da
 
 1. **Agrupación de categorías** 🧩
    - Colapsar categorías ruidosas y de bajo aporte en clases con significado real de negocio antes de modelar.
-   - Paper de referencia: [A Survey on Data Preprocessing for Data Mining](-)
 
 2. **Fusión multimodal (tabular + texto)** 🔗
    - Combinar embeddings de categóricas/numéricas con un embedding de texto basado en BERT, dentro de una sola arquitectura.
