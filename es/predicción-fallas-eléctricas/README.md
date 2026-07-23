@@ -1,25 +1,78 @@
-# Predicción de causas de falla en una red de distribución eléctrica
+# 🧪 Laboratory: Electrical Grid Failure Classification - FuzzyFrog.AI
 
-Clasificación multimodal (datos tabulares + texto libre) de la causa de una falla eléctrica, combinando embeddings tabulares con un modelo de lenguaje (DistilBERT) sobre comentarios de campo.
+**Objective:** Learn how to combine tabular and free-text data into a single multimodal classifier when your target categories are noisy and imbalanced. This hands-on lab provides a runnable notebook, a synthetic dataset, and references to the underlying techniques.
 
-**Artículo completo con el contexto, el diseño y las decisiones de este proyecto:** *(liga a la plataforma — sección Fallas en redes eléctricas)*
+---
 
-## Contenido de este repositorio
+## 🚀 Quick Links
+[🌐 FuzzyFrog.AI](https://fuzzyfrog.ai) | [📄 Article](https://fuzzyfrog.ai/es/ai-lab/proyectos/energia/clasificacion-fallas-red-electrica-texto-tabular-bert/) | [📁 Original Projects](../)
 
-- `fallas_redes_electricas.ipynb` — cuaderno completo: carga de datos, EDA, modelado (TabBERT), evaluación y función de inferencia rápida.
-- `fallas_red_electrica_sintetico.csv` — dataset sintético reducido (~650 registros) que imita la estructura y el desbalance de clases del proyecto original. No contiene ningún dato real de cliente.
+---
 
-## Nota sobre los datos
+## 🏗 Laboratory Structure
+```
+/original-projects/electrical-grid-failure-classification
+    README.md
+    fallas_redes_electricas.ipynb
+    fallas_red_electrica_sintetico.csv
+    resources/
+```
+- `fallas_redes_electricas.ipynb`: full notebook — load, EDA, modeling (TabBERT), evaluation, and a quick inference function.
+- `fallas_red_electrica_sintetico.csv`: reduced synthetic dataset (~650 records) mirroring the structure and class imbalance of the original project. Contains no real client data.
+- `resources/`: architecture diagram and supporting material.
 
-Por confidencialidad, este repositorio usa datos sintéticos generados para fines demostrativos. La arquitectura, las decisiones de ingeniería y los resultados descritos en el artículo corresponden al proyecto real; los datos no.
+---
 
-## Resumen técnico
+## 🔍 Analysis Focus
+In this lab, you will explore three key decisions behind turning noisy, multimodal data into a working classifier:
 
-- **Problema:** clasificar la causa de una interrupción eléctrica en 3 clases (`Natural`, `Interna/Accidente`, `Otros`), a partir de datos tabulares (circuito, municipio, duración) y un comentario de texto libre del operador.
-- **Enfoque:** arquitectura TabBERT — embeddings de categóricas + numérica escalada, concatenados con el embedding `[CLS]` de DistilBERT sobre el comentario, seguido de una capa densa con dropout.
-- **Manejo de desbalance:** oversampling de clases + loss ponderado por clase durante el entrenamiento.
-- **Resultado (con datos reales del proyecto original):** ~80% de exactitud en la clasificación de 3 clases.
+1. **Category Grouping** 🧩
+   - Collapse noisy, low-signal categories into classes with real business meaning before modeling.
+   - Reference Paper: [A Survey on Data Preprocessing for Data Mining](https://arxiv.org/abs/2202.01593)
 
-## ¿Tienes un proyecto similar?
+2. **Multimodal Fusion (Tabular + Text)** 🔗
+   - Combine categorical/numerical embeddings with a BERT-based text embedding in a single architecture.
+   - Reference Paper: [Multimodal Machine Learning: A Survey and Taxonomy](https://arxiv.org/abs/1705.09406)
 
-Puedo ayudarte a diseñar un enfoque parecido para tu tesis, tu trabajo o tu emprendimiento. Más información en la plataforma: *(liga a la plataforma)*
+3. **Class Imbalance Handling** ⚖️
+   - Oversampling plus a class-weighted loss to keep minority classes learnable through training.
+   - Reference Paper: [Learning from Imbalanced Data](https://ieeexplore.ieee.org/document/5128907)
+
+---
+
+## 🎯 Goals
+- Identify when noisy categorical targets need regrouping before modeling.
+- Practice fusing tabular and free-text data in one architecture.
+- Learn to handle class imbalance beyond naive oversampling.
+- Build a quick inference function to validate a model before building a full app.
+
+---
+
+## 🛠 Badges
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![Notebook](https://img.shields.io/badge/notebook-jupyter-orange)
+![PyTorch](https://img.shields.io/badge/pytorch-deep%20learning-red)
+![Website](https://img.shields.io/badge/atlas--ai--thesis--lab-visit-brightgreen)
+
+---
+
+## 📚 Resources
+- [FuzzyFrog.AI](https://fuzzyfrog.ai)
+- Full write-up with design decisions: [Article](https://fuzzyfrog.ai/es/ai-lab/proyectos/energia/clasificacion-fallas-red-electrica-texto-tabular-bert/)
+- References and papers listed above
+- Exercises in `fallas_redes_electricas.ipynb`
+
+---
+
+## ✨ How to Use
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/original-projects.git
+```
+2. Open `fallas_redes_electricas.ipynb` in Jupyter or Google Colab.
+3. Run the notebook end to end with the included synthetic dataset.
+4. Try the quick inference function at the end with your own inputs.
+
+---
+
+*Made with ❤️ by FuzzyFrog.AI*
