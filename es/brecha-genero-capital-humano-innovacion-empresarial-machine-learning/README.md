@@ -4,7 +4,7 @@
 
 ## Enlaces rápidos
 
-[Plataforma](https://fuzzyfrog.ai/es/) | [Artículo completo](https://fuzzyfrog.ai/es/ai-lab/proyectos/negocios/brecha-genero-capital-humano-innovacion-empresarial-machine-learning/) | [Carpeta general de proyectos](https://github.com/FuzzyFrogAI/original-projects)
+[Plataforma](https://fuzzyfrog.ai/es/) | [Artículo completo](https://fuzzyfrog.ai/es/ai-lab/proyectos/negocio/brecha-genero-capital-humano-innovacion-empresarial-machine-learning/) | [Carpeta general de proyectos](https://github.com/FuzzyFrogAI/original-projects)
 
 ## Estructura del laboratorio
 
