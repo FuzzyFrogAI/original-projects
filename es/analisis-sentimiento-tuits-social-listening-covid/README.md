@@ -2,7 +2,7 @@
 
 **Aprenderás a construir un pipeline de social listening y a elegir el modelo correcto mirando más allá de la exactitud global, sobre todo cuando las clases están desbalanceadas.**
 
-🔗 [Plataforma](https://fuzzyfrog.ai/es/) | 📄 [Artículo completo](https://fuzzyfrog.ai/es/ai-lab/proyectos/negocio/analisis-sentimiento-tuits-social-listening-covid/) | 📁 [Todos los proyectos](https://github.com/FuzzyFrogAI/original-projects)
+🔗 [Plataforma](https://fuzzyfrog.ai/es/) | 📄 [Artículo completo](https://fuzzyfrog.ai/es/ai-lab/proyectos/negocios/analisis-sentimiento-tuits-social-listening-covid/) | 📁 [Todos los proyectos](https://github.com/FuzzyFrogAI/original-projects)
 
 ## Estructura del laboratorio
 
