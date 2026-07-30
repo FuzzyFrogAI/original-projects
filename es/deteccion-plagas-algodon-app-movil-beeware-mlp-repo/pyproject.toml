@@ -1,0 +1,42 @@
+[tool.briefcase]
+project_name = "Detección de Plagas en Algodón"
+bundle = "ai.fuzzyfrog"
+version = "0.1.0"
+url = "https://fuzzyfrog.ai/es/ai-lab/proyectos/agritech/deteccion-plagas-algodon-app-movil-beeware-mlp/"
+license.file = "LICENSE"
+author = "FuzzyFrog.AI"
+author_email = "hola@fuzzyfrog.ai"
+
+[tool.briefcase.app.plagasalgodon]
+formal_name = "Plagas Algodón"
+description = "Prueba de concepto: detección de plagas y enfermedades en algodón desde el celular"
+long_description = """Toma una foto de una hoja de algodón y recibe el tipo de plaga o
+enfermedad detectada, con una descripción y consejos de manejo, usando un
+modelo de machine learning entrenado con visión por computadora."""
+sources = ["src/plagasalgodon"]
+requires = [
+    "boto3",
+    "pymongo",
+]
+
+[tool.briefcase.app.plagasalgodon.android]
+requires = [
+    "boto3",
+    "pymongo",
+]
+base_theme = "Theme.MaterialComponents.Light.DarkActionBar"
+build_gradle_dependencies = [
+    "androidx.camera:camera-camera2:1.3.0",
+    "androidx.camera:camera-lifecycle:1.3.0",
+    "androidx.camera:camera-view:1.3.0",
+]
+
+[tool.briefcase.app.plagasalgodon.iOS]
+requires = [
+    "boto3",
+    "pymongo",
+]
+
+# NOTA: las credenciales de AWS y MongoDB nunca se declaran aquí ni en el
+# código fuente. Se configuran como variables de entorno o en un archivo
+# .env local, fuera del control de versiones (ver .gitignore y app.py).
