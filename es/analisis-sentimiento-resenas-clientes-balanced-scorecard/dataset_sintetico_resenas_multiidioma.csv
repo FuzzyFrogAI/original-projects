@@ -1,0 +1,201 @@
+review_id,comment,language,year,reference_polarity
+1,"Amazing food and the staff was super friendly, we will come back",en,2019,positive
+2,"Excelente comida y el trato del personal fue muy amable, volveremos",es,2023,positive
+3,"Great place, clean, cozy, and the portions were generous",en,2019,positive
+4,"Amazing food and the staff was super friendly, we will come back",en,2023,positive
+5,Esperamos más de una hora y la comida llegó fría,es,2022,negative
+6,"Decent place to eat, nothing special but nothing bad either",en,2022,neutral
+7,"Amazing food and the staff was super friendly, we will come back",en,2022,positive
+8,Esperamos más de una hora y la comida llegó fría,es,2022,negative
+9,"Excelente comida y el trato del personal fue muy amable, volveremos",es,2022,positive
+10,"Lugar muy agradable, limpio y las porciones generosas",es,2023,positive
+11,"Comida promedio, servicio promedio, está bien para algo rápido",es,2021,neutral
+12,Abbiamo aspettato piu di un ora e il cibo era freddo,it,2019,negative
+13,"Excellent service, the waiter recommended the perfect wine pairing",en,2023,positive
+14,"Decent place to eat, nothing special but nothing bad either",en,2022,neutral
+15,"Great place, clean, cozy, and the portions were generous",en,2022,positive
+16,"Excellente nourriture et personnel tres accueillant, nous reviendrons",fr,2022,positive
+17,"Great place, clean, cozy, and the portions were generous",en,2019,positive
+18,"Amazing food and the staff was super friendly, we will come back",en,2019,positive
+19,"Experiencia decepcionante, no lo recomendaría a mis amigos",es,2021,negative
+20,We waited over an hour and the food arrived cold,en,2023,negative
+21,"Disappointing experience, would not recommend to friends",en,2019,negative
+22,"Cibo delizioso e personale molto gentile, torneremo sicuramente",it,2022,positive
+23,"Tolles Essen und sehr freundliches Personal, wir kommen wieder",de,2022,positive
+24,"Comida promedio, servicio promedio, está bien para algo rápido",es,2023,neutral
+25,"Excellent service, the waiter recommended the perfect wine pairing",en,2023,positive
+26,"Amazing food and the staff was super friendly, we will come back",en,2020,positive
+27,"Great place, clean, cozy, and the portions were generous",en,2023,positive
+28,"Best pasta we had on the whole trip, loved the atmosphere",en,2022,positive
+29,"Overpriced for what you get, service was slow and rude",en,2023,negative
+30,Esperamos más de una hora y la comida llegó fría,es,2022,negative
+31,"Ein anstaendiger Ort zum Essen, nichts besonderes",de,2022,neutral
+32,"Great place, clean, cozy, and the portions were generous",en,2019,positive
+33,"Best pasta we had on the whole trip, loved the atmosphere",en,2020,positive
+34,"La mejor pasta de todo el viaje, nos encantó el ambiente",es,2022,positive
+35,Nous avons attendu plus d'une heure et le repas etait froid,fr,2023,negative
+36,"Muy buen servicio, el mesero recomendó un vino perfecto",es,2023,positive
+37,"Excelente comida y el trato del personal fue muy amable, volveremos",es,2023,positive
+38,"Excellente nourriture et personnel tres accueillant, nous reviendrons",fr,2022,positive
+39,The place was noisy and our order came out wrong twice,en,2022,negative
+40,"La mejor pasta de todo el viaje, nos encantó el ambiente",es,2023,positive
+41,"Excelente comida y el trato del personal fue muy amable, volveremos",es,2023,positive
+42,We waited over an hour and the food arrived cold,en,2023,negative
+43,"Best pasta we had on the whole trip, loved the atmosphere",en,2022,positive
+44,"Excellent service, the waiter recommended the perfect wine pairing",en,2022,positive
+45,"Muy caro para lo que ofrecen, el servicio fue lento",es,2023,negative
+46,Abbiamo aspettato piu di un ora e il cibo era freddo,it,2021,negative
+47,Esperamos más de una hora y la comida llegó fría,es,2023,negative
+48,"Muy buen servicio, el mesero recomendó un vino perfecto",es,2022,positive
+49,"Un endroit correct, rien de special mais rien de mauvais non plus",fr,2019,neutral
+50,"Excellent service, the waiter recommended the perfect wine pairing",en,2021,positive
+51,"Un lugar decente para comer, nada especial pero tampoco malo",es,2022,neutral
+52,Esperamos más de una hora y la comida llegó fría,es,2023,negative
+53,"Best pasta we had on the whole trip, loved the atmosphere",en,2022,positive
+54,The place was noisy and our order came out wrong twice,en,2019,negative
+55,Nous avons attendu plus d'une heure et le repas etait froid,fr,2022,negative
+56,Nous avons attendu plus d'une heure et le repas etait froid,fr,2023,negative
+57,"Disappointing experience, would not recommend to friends",en,2023,negative
+58,"Average food, average service, ok for a quick lunch",en,2023,neutral
+59,"Best pasta we had on the whole trip, loved the atmosphere",en,2019,positive
+60,Abbiamo aspettato piu di un ora e il cibo era freddo,it,2022,negative
+61,"Excellente nourriture et personnel tres accueillant, nous reviendrons",fr,2023,positive
+62,"Excellent service, the waiter recommended the perfect wine pairing",en,2022,positive
+63,"La migliore pasta di tutto il viaggio, atmosfera fantastica",it,2023,positive
+64,"Disappointing experience, would not recommend to friends",en,2023,negative
+65,"Cibo delizioso e personale molto gentile, torneremo sicuramente",it,2022,positive
+66,"Lugar muy agradable, limpio y las porciones generosas",es,2023,positive
+67,"Muy caro para lo que ofrecen, el servicio fue lento",es,2020,negative
+68,Esperamos más de una hora y la comida llegó fría,es,2022,negative
+69,Esperamos más de una hora y la comida llegó fría,es,2023,negative
+70,"Amazing food and the staff was super friendly, we will come back",en,2023,positive
+71,Esperamos más de una hora y la comida llegó fría,es,2022,negative
+72,"La mejor pasta de todo el viaje, nos encantó el ambiente",es,2023,positive
+73,"Lugar muy agradable, limpio y las porciones generosas",es,2022,positive
+74,"Excellent service, the waiter recommended the perfect wine pairing",en,2023,positive
+75,"Tolles Essen und sehr freundliches Personal, wir kommen wieder",de,2020,positive
+76,"Amazing food and the staff was super friendly, we will come back",en,2023,positive
+77,"Excellent service, the waiter recommended the perfect wine pairing",en,2023,positive
+78,"Tolles Essen und sehr freundliches Personal, wir kommen wieder",de,2020,positive
+79,"Ein anstaendiger Ort zum Essen, nichts besonderes",de,2023,neutral
+80,"Decent place to eat, nothing special but nothing bad either",en,2023,neutral
+81,"La migliore pasta di tutto il viaggio, atmosfera fantastica",it,2023,positive
+82,"Excellent service, the waiter recommended the perfect wine pairing",en,2022,positive
+83,"Lugar muy agradable, limpio y las porciones generosas",es,2022,positive
+84,"Excellent service, the waiter recommended the perfect wine pairing",en,2022,positive
+85,"Decent place to eat, nothing special but nothing bad either",en,2023,neutral
+86,"Amazing food and the staff was super friendly, we will come back",en,2023,positive
+87,"Disappointing experience, would not recommend to friends",en,2023,negative
+88,"Comida promedio, servicio promedio, está bien para algo rápido",es,2020,neutral
+89,Wir haben ueber eine Stunde gewartet und das Essen war kalt,de,2019,negative
+90,"Disappointing experience, would not recommend to friends",en,2023,negative
+91,"Amazing food and the staff was super friendly, we will come back",en,2023,positive
+92,"Decent place to eat, nothing special but nothing bad either",en,2021,neutral
+93,"Great place, clean, cozy, and the portions were generous",en,2023,positive
+94,"Best pasta we had on the whole trip, loved the atmosphere",en,2023,positive
+95,"Excellente nourriture et personnel tres accueillant, nous reviendrons",fr,2021,positive
+96,"Best pasta we had on the whole trip, loved the atmosphere",en,2021,positive
+97,"Muy buen servicio, el mesero recomendó un vino perfecto",es,2023,positive
+98,"Excellente nourriture et personnel tres accueillant, nous reviendrons",fr,2023,positive
+99,"Lugar muy agradable, limpio y las porciones generosas",es,2021,positive
+100,"Disappointing experience, would not recommend to friends",en,2023,negative
+101,"Estuvo bien, probablemente no volveríamos por cuenta propia",es,2022,neutral
+102,"Best pasta we had on the whole trip, loved the atmosphere",en,2023,positive
+103,"Experiencia decepcionante, no lo recomendaría a mis amigos",es,2023,negative
+104,"Un endroit correct, rien de special mais rien de mauvais non plus",fr,2019,neutral
+105,"La mejor pasta de todo el viaje, nos encantó el ambiente",es,2019,positive
+106,"Muy buen servicio, el mesero recomendó un vino perfecto",es,2022,positive
+107,"La mejor pasta de todo el viaje, nos encantó el ambiente",es,2020,positive
+108,"Excellent service, the waiter recommended the perfect wine pairing",en,2023,positive
+109,"Muy buen servicio, el mesero recomendó un vino perfecto",es,2021,positive
+110,"Amazing food and the staff was super friendly, we will come back",en,2022,positive
+111,"Excelente comida y el trato del personal fue muy amable, volveremos",es,2019,positive
+112,"Cibo delizioso e personale molto gentile, torneremo sicuramente",it,2022,positive
+113,We waited over an hour and the food arrived cold,en,2022,negative
+114,"Experiencia decepcionante, no lo recomendaría a mis amigos",es,2023,negative
+115,"Muy buen servicio, el mesero recomendó un vino perfecto",es,2023,positive
+116,"Lugar muy agradable, limpio y las porciones generosas",es,2023,positive
+117,"Cibo delizioso e personale molto gentile, torneremo sicuramente",it,2023,positive
+118,"Estuvo bien, probablemente no volveríamos por cuenta propia",es,2023,neutral
+119,"Excelente comida y el trato del personal fue muy amable, volveremos",es,2020,positive
+120,"Great place, clean, cozy, and the portions were generous",en,2022,positive
+121,"Muy caro para lo que ofrecen, el servicio fue lento",es,2022,negative
+122,We waited over an hour and the food arrived cold,en,2023,negative
+123,The place was noisy and our order came out wrong twice,en,2023,negative
+124,"Cibo delizioso e personale molto gentile, torneremo sicuramente",it,2021,positive
+125,"Lugar muy agradable, limpio y las porciones generosas",es,2019,positive
+126,"Tolles Essen und sehr freundliches Personal, wir kommen wieder",de,2022,positive
+127,"La mejor pasta de todo el viaje, nos encantó el ambiente",es,2022,positive
+128,"Muy caro para lo que ofrecen, el servicio fue lento",es,2019,negative
+129,"Amazing food and the staff was super friendly, we will come back",en,2023,positive
+130,"Muy buen servicio, el mesero recomendó un vino perfecto",es,2022,positive
+131,"La mejor pasta de todo el viaje, nos encantó el ambiente",es,2022,positive
+132,"Excellent service, the waiter recommended the perfect wine pairing",en,2022,positive
+133,"Posto decente, niente di speciale ma nemmeno male",it,2023,neutral
+134,"Decent place to eat, nothing special but nothing bad either",en,2019,neutral
+135,The place was noisy and our order came out wrong twice,en,2023,negative
+136,"It was fine, we probably would not go out of our way to return",en,2021,neutral
+137,"Great place, clean, cozy, and the portions were generous",en,2023,positive
+138,"Excelente comida y el trato del personal fue muy amable, volveremos",es,2023,positive
+139,"La mejor pasta de todo el viaje, nos encantó el ambiente",es,2022,positive
+140,"Excellent service, the waiter recommended the perfect wine pairing",en,2019,positive
+141,"Posto decente, niente di speciale ma nemmeno male",it,2023,neutral
+142,"Excellent service, the waiter recommended the perfect wine pairing",en,2021,positive
+143,"Amazing food and the staff was super friendly, we will come back",en,2022,positive
+144,"Amazing food and the staff was super friendly, we will come back",en,2021,positive
+145,"Overpriced for what you get, service was slow and rude",en,2021,negative
+146,"Best pasta we had on the whole trip, loved the atmosphere",en,2023,positive
+147,"Cibo delizioso e personale molto gentile, torneremo sicuramente",it,2023,positive
+148,"Estuvo bien, probablemente no volveríamos por cuenta propia",es,2022,neutral
+149,"Lugar muy agradable, limpio y las porciones generosas",es,2022,positive
+150,"Troppo caro per quello che offrono, servizio lento",it,2022,negative
+151,Wir haben ueber eine Stunde gewartet und das Essen war kalt,de,2022,negative
+152,"Excellent service, the waiter recommended the perfect wine pairing",en,2022,positive
+153,"Great place, clean, cozy, and the portions were generous",en,2020,positive
+154,"Lugar muy agradable, limpio y las porciones generosas",es,2022,positive
+155,"Lugar muy agradable, limpio y las porciones generosas",es,2022,positive
+156,"La mejor pasta de todo el viaje, nos encantó el ambiente",es,2022,positive
+157,"Excellent service, the waiter recommended the perfect wine pairing",en,2023,positive
+158,"Great place, clean, cozy, and the portions were generous",en,2022,positive
+159,"Muy buen servicio, el mesero recomendó un vino perfecto",es,2022,positive
+160,"Excellent service, the waiter recommended the perfect wine pairing",en,2020,positive
+161,"Muy caro para lo que ofrecen, el servicio fue lento",es,2019,negative
+162,"Tolles Essen und sehr freundliches Personal, wir kommen wieder",de,2022,positive
+163,"Decent place to eat, nothing special but nothing bad either",en,2020,neutral
+164,"Disappointing experience, would not recommend to friends",en,2023,negative
+165,"Lugar muy agradable, limpio y las porciones generosas",es,2023,positive
+166,"Best pasta we had on the whole trip, loved the atmosphere",en,2020,positive
+167,"Excellente nourriture et personnel tres accueillant, nous reviendrons",fr,2019,positive
+168,"Cibo delizioso e personale molto gentile, torneremo sicuramente",it,2021,positive
+169,Wir haben ueber eine Stunde gewartet und das Essen war kalt,de,2023,negative
+170,"Lugar muy agradable, limpio y las porciones generosas",es,2023,positive
+171,"Best pasta we had on the whole trip, loved the atmosphere",en,2022,positive
+172,We waited over an hour and the food arrived cold,en,2022,negative
+173,"Excellente nourriture et personnel tres accueillant, nous reviendrons",fr,2022,positive
+174,"Tolles Essen und sehr freundliches Personal, wir kommen wieder",de,2022,positive
+175,"Excellent service, the waiter recommended the perfect wine pairing",en,2019,positive
+176,"It was fine, we probably would not go out of our way to return",en,2022,neutral
+177,The place was noisy and our order came out wrong twice,en,2021,negative
+178,"Great place, clean, cozy, and the portions were generous",en,2022,positive
+179,"Excellent service, the waiter recommended the perfect wine pairing",en,2023,positive
+180,"La mejor pasta de todo el viaje, nos encantó el ambiente",es,2022,positive
+181,"Cibo delizioso e personale molto gentile, torneremo sicuramente",it,2021,positive
+182,"Tolles Essen und sehr freundliches Personal, wir kommen wieder",de,2022,positive
+183,"Tolles Essen und sehr freundliches Personal, wir kommen wieder",de,2023,positive
+184,"Best pasta we had on the whole trip, loved the atmosphere",en,2019,positive
+185,"Excelente comida y el trato del personal fue muy amable, volveremos",es,2021,positive
+186,The place was noisy and our order came out wrong twice,en,2023,negative
+187,"Un endroit correct, rien de special mais rien de mauvais non plus",fr,2021,neutral
+188,"Lugar muy agradable, limpio y las porciones generosas",es,2019,positive
+189,"Muy buen servicio, el mesero recomendó un vino perfecto",es,2023,positive
+190,"Amazing food and the staff was super friendly, we will come back",en,2021,positive
+191,"Decent place to eat, nothing special but nothing bad either",en,2022,neutral
+192,"La migliore pasta di tutto il viaggio, atmosfera fantastica",it,2023,positive
+193,"Great place, clean, cozy, and the portions were generous",en,2021,positive
+194,"Muy buen servicio, el mesero recomendó un vino perfecto",es,2022,positive
+195,"Tolles Essen und sehr freundliches Personal, wir kommen wieder",de,2021,positive
+196,"Lugar muy agradable, limpio y las porciones generosas",es,2019,positive
+197,"Average food, average service, ok for a quick lunch",en,2021,neutral
+198,The place was noisy and our order came out wrong twice,en,2021,negative
+199,Nous avons attendu plus d'une heure et le repas etait froid,fr,2023,negative
+200,"Comida promedio, servicio promedio, está bien para algo rápido",es,2019,neutral
