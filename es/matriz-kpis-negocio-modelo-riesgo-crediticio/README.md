@@ -2,7 +2,7 @@
 
 **Objetivo:** aprender a evaluar un modelo de riesgo crediticio con KPIs de negocio propios de la industria, no solo con métricas técnicas de clasificación.
 
-**Enlaces rápidos:** [Plataforma](https://fuzzyfrog.ai/es/) | [Artículo completo](https://fuzzyfrog.ai/es/ai-lab/proyectos/negocio/matriz-kpis-negocio-modelo-riesgo-crediticio/) | [Carpeta general de proyectos](https://github.com/FuzzyFrogAI/original-projects)
+**Enlaces rápidos:** [Plataforma](https://fuzzyfrog.ai/es/) | [Artículo completo](https://fuzzyfrog.ai/es/ai-lab/proyectos/negocios/matriz-kpis-negocio-modelo-riesgo-crediticio/) | [Carpeta general de proyectos](https://github.com/FuzzyFrogAI/original-projects)
 
 ## Estructura del laboratorio
 
@@ -39,7 +39,7 @@ matriz-kpis-negocio-modelo-riesgo-crediticio/
 ## Recursos
 
 - [Plataforma FuzzyFrog.AI](https://fuzzyfrog.ai/es/)
-- [Artículo completo del caso](https://fuzzyfrog.ai/es/ai-lab/proyectos/negocio/matriz-kpis-negocio-modelo-riesgo-crediticio/)
+- [Artículo completo del caso](https://fuzzyfrog.ai/es/ai-lab/proyectos/negocios/matriz-kpis-negocio-modelo-riesgo-crediticio/)
 - Referencias citadas arriba en Enfoque de análisis
 - [`matriz-kpis-negocio-modelo-riesgo-crediticio.ipynb`](./matriz-kpis-negocio-modelo-riesgo-crediticio.ipynb)
 
