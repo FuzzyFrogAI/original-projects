@@ -1,0 +1,3 @@
+modelo,accuracy_test
+Regresión Logística (baseline),0.7905
+CNN (2 conv + FC),0.9919
