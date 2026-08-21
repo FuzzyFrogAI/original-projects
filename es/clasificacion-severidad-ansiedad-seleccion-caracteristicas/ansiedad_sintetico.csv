@@ -1,0 +1,901 @@
+Age,Hours,streams,SWL_T,SPIN_T,Narcissism,Work,Degree,Playstyle,whyplay,earnings,outcome
+53,18.1,7.0,30.0,31.0,1.8,Estudiante,Preparatoria,Multijugador presencial,Diversion,Juego por diversion,2
+48,0.0,0.0,18.0,12.0,4.6,Desempleado,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,2
+43,35.1,0.0,19.0,24.0,4.8,Estudiante,Preparatoria,Multijugador en linea,Mejorar habilidad,Juego por diversion,3
+49,24.1,0.0,15.0,23.0,4.4,Estudiante,Licenciatura,Con amigos en linea,Relajarme,Juego por diversion,3
+23,25.7,6.2,22.0,28.0,3.6,Estudiante,Licenciatura,Multijugador presencial,Competir,Juego por diversion,3
+22,31.9,1.7,24.0,15.0,2.6,Estudiante,Licenciatura,Multijugador presencial,Relajarme,Juego por diversion,4
+46,11.5,3.3,27.0,45.0,3.1,Estudiante,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,1
+23,3.8,0.0,18.0,31.0,4.9,Empleado,Preparatoria,Un jugador,Socializar,Juego por diversion,2
+38,41.4,0.0,19.0,23.0,5.2,Empleado,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,3
+34,11.1,2.3,14.0,21.0,3.7,Empleado,Preparatoria,Con amigos en linea,Competir,Juego por diversion,3
+27,0.0,11.9,14.0,8.0,2.8,Estudiante,Licenciatura,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+44,0.0,0.9,22.0,17.0,2.7,Estudiante,Licenciatura,Multijugador en linea,Diversion,Juego por diversion,3
+34,44.5,0.0,13.0,25.0,3.7,Empleado,Licenciatura,Con amigos en linea,Relajarme,Juego por diversion,3
+42,20.4,5.6,21.0,3.0,3.0,Estudiante,Licenciatura,Multijugador presencial,Diversion,Juego por diversion,1
+18,23.2,4.3,23.0,17.0,3.4,Estudiante,Licenciatura,Multijugador presencial,Competir,Juego por diversion,2
+52,21.6,0.0,19.0,13.0,1.9,Estudiante,Preparatoria,Un jugador,Relajarme,Juego por diversion,2
+46,24.8,4.0,27.0,17.0,3.5,Estudiante,Preparatoria,Un jugador,Socializar,Juego por diversion,1
+16,43.1,0.7,21.0,10.0,5.3,Estudiante,Maestria,Multijugador en linea,Relajarme,Juego por diversion,1
+42,13.7,3.9,20.0,18.0,0.5,Estudiante,Preparatoria,Un jugador,Competir,Juego por diversion,1
+34,31.8,2.7,20.0,15.0,2.7,Empleado,Preparatoria,Un jugador,Relajarme,Juego por diversion,2
+28,21.4,7.3,14.0,0.0,3.9,Empleado,Licenciatura,Un jugador,Mejorar habilidad,Juego por diversion,3
+27,13.3,3.2,24.0,15.0,2.7,Empleado,Doctorado,Un jugador,Relajarme,Gano un poco,2
+30,9.4,0.6,19.0,38.0,1.9,Estudiante,Preparatoria,Con amigos en linea,Competir,Juego por diversion,2
+38,18.2,4.7,19.0,4.0,0.8,Empleado,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,3
+14,12.0,0.0,20.0,10.0,0.7,Estudiante,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,2
+15,31.5,0.0,21.0,19.0,4.1,Estudiante,Licenciatura,Multijugador en linea,Mejorar habilidad,Juego por diversion,3
+31,40.9,3.6,24.0,14.0,2.8,Empleado,Doctorado,Multijugador en linea,Socializar,Juego por diversion,2
+27,25.9,0.0,13.0,19.0,2.7,Empleado,Preparatoria,Un jugador,Diversion,Juego por diversion,2
+42,13.2,4.8,24.0,0.0,1.6,Empleado,Licenciatura,Con amigos en linea,Mejorar habilidad,Juego por diversion,2
+17,3.5,3.9,12.0,24.0,1.9,Desempleado,Licenciatura,Con amigos en linea,Relajarme,Juego por diversion,3
+34,7.7,3.1,21.0,0.0,3.3,Empleado,Maestria,Multijugador presencial,Competir,Juego por diversion,2
+53,30.7,6.1,22.0,18.0,3.6,Estudiante,Licenciatura,Multijugador en linea,Competir,Juego por diversion,2
+54,28.6,5.5,20.0,5.0,3.3,Estudiante,Preparatoria,Multijugador en linea,Competir,Gano un poco,2
+38,35.6,4.4,29.0,9.0,3.5,Estudiante,Doctorado,Con amigos en linea,Socializar,Juego por diversion,2
+24,8.1,4.9,13.0,16.0,4.3,Empleado,Preparatoria,Multijugador en linea,Competir,Gano un poco,2
+34,19.2,4.7,24.0,3.0,1.4,Estudiante,Doctorado,Multijugador en linea,Competir,Es mi sustento,2
+45,34.9,4.1,14.0,35.0,1.3,Empleado,Doctorado,Multijugador en linea,Diversion,Gano un poco,2
+54,23.7,0.0,7.0,1.0,3.6,Estudiante,Licenciatura,Multijugador en linea,Diversion,Juego por diversion,1
+40,7.0,0.0,8.0,36.0,3.2,Empleado,Licenciatura,Multijugador en linea,Mejorar habilidad,Juego por diversion,3
+29,9.2,0.0,19.0,49.0,2.6,Estudiante,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,3
+37,1.0,0.2,17.0,25.0,5.3,Empleado,Licenciatura,Un jugador,Competir,Juego por diversion,1
+31,3.7,4.7,29.0,19.0,1.5,Empleado,Maestria,Un jugador,Relajarme,Juego por diversion,2
+36,36.6,0.0,26.0,17.0,3.0,Estudiante,Licenciatura,Un jugador,Competir,Juego por diversion,1
+35,5.9,2.0,13.0,43.0,2.3,Empleado,Preparatoria,Un jugador,Relajarme,Juego por diversion,2
+14,36.9,2.4,23.0,25.0,3.1,Estudiante,Licenciatura,Un jugador,Competir,Gano un poco,2
+16,32.9,3.7,17.0,16.0,3.0,Estudiante,Maestria,Con amigos en linea,Mejorar habilidad,Juego por diversion,1
+42,24.7,5.0,22.0,20.0,3.0,Estudiante,Maestria,Multijugador en linea,Socializar,Juego por diversion,2
+14,10.2,2.8,33.0,43.0,2.0,Desempleado,Licenciatura,Con amigos en linea,Competir,Juego por diversion,2
+37,45.8,3.3,21.0,27.0,1.8,Desempleado,Preparatoria,Un jugador,Competir,Juego por diversion,2
+26,30.5,0.0,17.0,21.0,4.6,Desempleado,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,3
+46,33.3,1.5,19.0,32.0,2.0,Empleado,Licenciatura,Multijugador en linea,Diversion,Juego por diversion,2
+38,20.4,1.5,21.0,18.0,3.3,Estudiante,Licenciatura,Con amigos en linea,Relajarme,Juego por diversion,2
+49,1.9,8.1,17.0,18.0,2.3,Empleado,Preparatoria,Multijugador presencial,Relajarme,Juego por diversion,2
+37,26.5,7.4,24.0,37.0,3.6,Estudiante,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,2
+42,28.6,7.0,22.0,29.0,3.0,Empleado,Preparatoria,Con amigos en linea,Mejorar habilidad,Juego por diversion,2
+21,3.1,3.4,33.0,11.0,3.7,Empleado,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,2
+39,19.6,2.5,11.0,15.0,5.0,Empleado,Licenciatura,Con amigos en linea,Socializar,Juego por diversion,3
+26,22.5,0.5,17.0,27.0,1.6,Desempleado,Preparatoria,Un jugador,Diversion,Juego por diversion,3
+17,4.2,1.9,18.0,31.0,4.3,Estudiante,Licenciatura,Multijugador presencial,Relajarme,Juego por diversion,2
+45,21.5,0.0,21.0,26.0,1.2,Estudiante,Licenciatura,Un jugador,Diversion,Juego por diversion,3
+28,19.8,0.8,20.0,0.0,3.9,Estudiante,Maestria,Multijugador presencial,Competir,Juego por diversion,2
+27,24.8,0.3,19.0,6.0,3.2,Estudiante,Preparatoria,Con amigos en linea,Diversion,Juego por diversion,3
+17,18.8,2.2,23.0,17.0,4.5,Empleado,Licenciatura,Multijugador en linea,Relajarme,Juego por diversion,4
+32,15.1,14.1,29.0,22.0,2.1,Empleado,Preparatoria,Multijugador en linea,Mejorar habilidad,Es mi sustento,1
+46,17.1,7.7,21.0,21.0,3.8,Estudiante,Licenciatura,Multijugador presencial,Diversion,Juego por diversion,2
+27,13.5,0.1,21.0,32.0,2.6,Desempleado,Preparatoria,Un jugador,Socializar,Juego por diversion,2
+15,37.4,7.3,9.0,34.0,5.2,Estudiante,Licenciatura,Multijugador presencial,Relajarme,Juego por diversion,4
+48,24.5,0.8,11.0,22.0,4.9,Estudiante,Maestria,Con amigos en linea,Diversion,Juego por diversion,4
+31,11.0,0.0,11.0,24.0,3.0,Desempleado,Licenciatura,Con amigos en linea,Socializar,Gano un poco,2
+26,17.8,3.0,20.0,43.0,2.5,Empleado,Preparatoria,Un jugador,Relajarme,Juego por diversion,3
+39,31.8,1.1,10.0,44.0,5.9,Estudiante,Preparatoria,Multijugador en linea,Mejorar habilidad,Juego por diversion,4
+38,35.1,0.0,22.0,37.0,3.6,Empleado,Licenciatura,Con amigos en linea,Diversion,Juego por diversion,3
+30,10.3,1.4,21.0,16.0,4.7,Estudiante,Licenciatura,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+25,29.4,2.4,27.0,5.0,2.6,Desempleado,Licenciatura,Multijugador presencial,Socializar,Juego por diversion,2
+24,27.8,9.3,13.0,41.0,0.0,Estudiante,Licenciatura,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+45,27.0,0.0,22.0,8.0,3.3,Estudiante,Preparatoria,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+41,9.7,1.6,23.0,14.0,4.7,Estudiante,Licenciatura,Con amigos en linea,Relajarme,Juego por diversion,2
+38,35.4,6.9,7.0,19.0,2.9,Empleado,Licenciatura,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+43,14.9,0.7,17.0,11.0,2.6,Empleado,Doctorado,Multijugador presencial,Competir,Juego por diversion,2
+16,6.8,1.5,22.0,10.0,3.3,Empleado,Doctorado,Multijugador presencial,Relajarme,Juego por diversion,2
+46,48.0,0.0,15.0,23.0,1.7,Estudiante,Licenciatura,Con amigos en linea,Competir,Juego por diversion,3
+44,25.6,2.1,24.0,44.0,3.7,Estudiante,Preparatoria,Con amigos en linea,Mejorar habilidad,Juego por diversion,3
+47,26.6,3.5,21.0,32.0,2.9,Empleado,Doctorado,Multijugador presencial,Competir,Juego por diversion,2
+49,48.6,0.2,35.0,30.0,2.7,Estudiante,Preparatoria,Multijugador en linea,Relajarme,Juego por diversion,2
+38,0.0,7.2,13.0,13.0,2.3,Empleado,Maestria,Con amigos en linea,Competir,Juego por diversion,2
+44,11.2,0.0,21.0,1.0,3.6,Empleado,Licenciatura,Un jugador,Competir,Juego por diversion,1
+29,0.0,1.3,21.0,8.0,3.5,Estudiante,Preparatoria,Multijugador presencial,Mejorar habilidad,Juego por diversion,1
+20,14.9,1.1,11.0,30.0,6.7,Desempleado,Licenciatura,Con amigos en linea,Competir,Juego por diversion,3
+48,40.9,2.0,19.0,33.0,5.5,Empleado,Preparatoria,Con amigos en linea,Diversion,Juego por diversion,2
+34,26.2,0.0,29.0,44.0,1.9,Estudiante,Maestria,Multijugador presencial,Diversion,Gano un poco,2
+18,29.4,0.0,13.0,18.0,1.6,Estudiante,Licenciatura,Con amigos en linea,Socializar,Gano un poco,3
+54,11.8,1.9,29.0,34.0,2.5,Estudiante,Preparatoria,Un jugador,Relajarme,Juego por diversion,3
+21,10.2,5.1,16.0,17.0,3.0,Estudiante,Maestria,Un jugador,Mejorar habilidad,Juego por diversion,2
+48,9.6,4.1,13.0,32.0,4.1,Estudiante,Maestria,Multijugador presencial,Relajarme,Juego por diversion,3
+27,45.1,2.2,14.0,10.0,2.4,Estudiante,Licenciatura,Multijugador en linea,Competir,Juego por diversion,3
+47,21.4,2.0,15.0,17.0,1.4,Estudiante,Maestria,Un jugador,Competir,Juego por diversion,2
+53,29.0,7.8,19.0,22.0,4.3,Desempleado,Maestria,Con amigos en linea,Diversion,Es mi sustento,2
+15,0.0,2.3,16.0,29.0,3.6,Empleado,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,3
+34,26.8,3.2,22.0,0.0,2.9,Estudiante,Licenciatura,Un jugador,Diversion,Juego por diversion,2
+19,1.6,3.1,21.0,12.0,4.5,Estudiante,Preparatoria,Multijugador presencial,Mejorar habilidad,Gano un poco,1
+14,17.6,3.6,24.0,30.0,3.8,Estudiante,Maestria,Con amigos en linea,Socializar,Juego por diversion,3
+41,27.8,4.0,23.0,14.0,3.5,Desempleado,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,2
+28,25.5,2.4,25.0,23.0,2.9,Desempleado,Licenciatura,Multijugador en linea,Relajarme,Juego por diversion,2
+25,28.7,5.9,19.0,38.0,5.0,Estudiante,Licenciatura,Multijugador presencial,Diversion,Juego por diversion,3
+36,10.8,5.2,11.0,15.0,0.7,Estudiante,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,2
+21,9.6,3.7,17.0,15.0,1.1,Empleado,Preparatoria,Multijugador en linea,Competir,Juego por diversion,3
+40,25.6,8.5,24.0,23.0,5.3,Empleado,Preparatoria,Multijugador en linea,Relajarme,Juego por diversion,2
+39,35.5,0.0,32.0,0.0,2.7,Estudiante,Preparatoria,Multijugador presencial,Diversion,Juego por diversion,2
+48,19.3,3.3,9.0,38.0,2.4,Empleado,Licenciatura,Un jugador,Socializar,Gano un poco,4
+53,20.9,5.2,24.0,11.0,2.9,Desempleado,Licenciatura,Multijugador presencial,Relajarme,Juego por diversion,3
+14,21.5,0.6,29.0,19.0,2.8,Estudiante,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,1
+25,16.2,4.5,26.0,17.0,4.8,Estudiante,Licenciatura,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+48,22.3,2.2,17.0,25.0,2.3,Estudiante,Licenciatura,Con amigos en linea,Competir,Juego por diversion,2
+50,12.9,0.0,22.0,17.0,2.6,Estudiante,Maestria,Multijugador en linea,Socializar,Juego por diversion,2
+52,17.2,5.0,16.0,19.0,1.9,Empleado,Preparatoria,Con amigos en linea,Socializar,Juego por diversion,1
+44,27.8,0.0,17.0,27.0,2.2,Empleado,Preparatoria,Multijugador en linea,Competir,Juego por diversion,2
+37,5.6,1.0,25.0,30.0,1.2,Estudiante,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,2
+41,17.9,2.1,24.0,25.0,2.5,Estudiante,Preparatoria,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+26,18.9,1.0,21.0,16.0,3.8,Empleado,Preparatoria,Multijugador presencial,Competir,Es mi sustento,2
+18,20.1,0.9,18.0,14.0,2.2,Estudiante,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,2
+35,12.3,1.8,19.0,23.0,1.2,Estudiante,Licenciatura,Con amigos en linea,Socializar,Juego por diversion,2
+44,21.0,1.3,15.0,37.0,2.0,Estudiante,Preparatoria,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+42,26.9,6.2,14.0,0.0,3.4,Empleado,Maestria,Multijugador en linea,Mejorar habilidad,Gano un poco,2
+33,31.8,2.5,17.0,23.0,4.9,Estudiante,Licenciatura,Multijugador en linea,Competir,Es mi sustento,3
+51,0.0,7.3,26.0,21.0,5.3,Estudiante,Preparatoria,Con amigos en linea,Socializar,Juego por diversion,2
+28,23.8,1.9,28.0,0.0,3.5,Empleado,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,1
+25,14.5,6.1,22.0,20.0,1.4,Estudiante,Preparatoria,Multijugador en linea,Mejorar habilidad,Es mi sustento,2
+36,36.3,0.8,19.0,32.0,2.4,Estudiante,Maestria,Un jugador,Diversion,Juego por diversion,3
+47,6.8,0.0,25.0,24.0,1.8,Estudiante,Preparatoria,Un jugador,Socializar,Juego por diversion,2
+54,14.6,2.5,22.0,19.0,0.8,Empleado,Licenciatura,Un jugador,Mejorar habilidad,Juego por diversion,2
+48,22.7,0.0,23.0,14.0,3.3,Empleado,Preparatoria,Multijugador en linea,Diversion,Gano un poco,1
+35,0.0,6.2,13.0,24.0,0.9,Estudiante,Preparatoria,Multijugador presencial,Relajarme,Juego por diversion,3
+47,41.4,4.5,25.0,23.0,1.3,Estudiante,Licenciatura,Con amigos en linea,Competir,Juego por diversion,2
+35,30.2,3.8,28.0,4.0,3.4,Empleado,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,2
+34,14.9,1.7,14.0,15.0,3.5,Desempleado,Maestria,Multijugador en linea,Mejorar habilidad,Juego por diversion,3
+21,2.4,3.0,15.0,21.0,3.0,Estudiante,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,2
+31,22.2,1.9,31.0,27.0,1.4,Estudiante,Preparatoria,Con amigos en linea,Socializar,Juego por diversion,2
+17,26.8,7.9,27.0,26.0,1.4,Empleado,Licenciatura,Con amigos en linea,Mejorar habilidad,Juego por diversion,1
+27,27.0,4.2,21.0,17.0,2.6,Estudiante,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,2
+38,27.0,1.1,25.0,25.0,2.8,Estudiante,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,2
+21,33.8,0.5,16.0,22.0,4.6,Empleado,Preparatoria,Con amigos en linea,Competir,Juego por diversion,3
+29,31.0,5.6,23.0,28.0,4.5,Estudiante,Preparatoria,Multijugador presencial,Competir,Juego por diversion,2
+30,0.0,2.9,14.0,35.0,2.0,Estudiante,Licenciatura,Multijugador presencial,Competir,Juego por diversion,2
+29,40.7,6.1,31.0,0.0,0.9,Estudiante,Preparatoria,Un jugador,Socializar,Juego por diversion,2
+49,33.4,3.4,14.0,0.0,0.8,Estudiante,Preparatoria,Un jugador,Relajarme,Juego por diversion,2
+38,12.9,5.5,15.0,14.0,4.1,Estudiante,Maestria,Un jugador,Competir,Juego por diversion,3
+24,20.5,0.0,15.0,34.0,2.0,Desempleado,Licenciatura,Multijugador presencial,Relajarme,Juego por diversion,3
+37,30.6,4.4,13.0,33.0,3.1,Estudiante,Maestria,Multijugador en linea,Diversion,Juego por diversion,2
+36,4.1,0.6,22.0,25.0,0.8,Estudiante,Doctorado,Multijugador presencial,Mejorar habilidad,Juego por diversion,1
+14,42.7,5.5,13.0,31.0,0.3,Empleado,Preparatoria,Multijugador presencial,Competir,Juego por diversion,2
+39,15.2,5.7,35.0,8.0,0.5,Estudiante,Licenciatura,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+50,20.3,4.6,18.0,16.0,4.2,Estudiante,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,3
+46,8.3,3.0,18.0,18.0,3.7,Estudiante,Preparatoria,Multijugador en linea,Competir,Juego por diversion,3
+43,22.7,3.1,29.0,16.0,0.3,Estudiante,Licenciatura,Multijugador presencial,Relajarme,Gano un poco,1
+34,40.1,3.3,33.0,13.0,2.4,Empleado,Preparatoria,Multijugador presencial,Mejorar habilidad,Gano un poco,2
+14,35.7,3.4,23.0,40.0,2.1,Desempleado,Licenciatura,Con amigos en linea,Socializar,Juego por diversion,4
+21,17.8,0.0,12.0,31.0,4.3,Empleado,Preparatoria,Con amigos en linea,Diversion,Juego por diversion,4
+28,0.0,4.5,18.0,7.0,4.9,Estudiante,Preparatoria,Multijugador en linea,Competir,Juego por diversion,2
+45,15.9,3.4,26.0,36.0,3.3,Estudiante,Maestria,Con amigos en linea,Relajarme,Juego por diversion,2
+27,10.3,1.5,18.0,21.0,5.2,Desempleado,Licenciatura,Multijugador presencial,Competir,Gano un poco,2
+27,19.1,6.7,19.0,34.0,1.3,Empleado,Preparatoria,Multijugador en linea,Relajarme,Juego por diversion,3
+44,4.9,1.9,25.0,14.0,1.8,Empleado,Licenciatura,Multijugador en linea,Mejorar habilidad,Juego por diversion,1
+37,37.4,4.8,23.0,20.0,1.2,Empleado,Preparatoria,Multijugador en linea,Diversion,Juego por diversion,3
+44,25.9,6.3,32.0,8.0,3.5,Estudiante,Licenciatura,Multijugador en linea,Diversion,Gano un poco,1
+40,16.4,9.1,24.0,26.0,2.2,Empleado,Preparatoria,Un jugador,Diversion,Juego por diversion,2
+39,16.4,3.1,18.0,1.0,3.7,Desempleado,Maestria,Un jugador,Diversion,Juego por diversion,1
+33,21.4,5.1,26.0,1.0,2.5,Estudiante,Preparatoria,Multijugador presencial,Competir,Juego por diversion,3
+31,30.1,0.0,18.0,8.0,3.6,Empleado,Licenciatura,Un jugador,Relajarme,Juego por diversion,3
+53,6.1,2.8,19.0,16.0,3.0,Estudiante,Maestria,Multijugador presencial,Mejorar habilidad,Juego por diversion,1
+50,13.3,1.5,25.0,39.0,3.2,Empleado,Preparatoria,Multijugador presencial,Diversion,Juego por diversion,2
+45,19.6,3.9,28.0,39.0,3.5,Estudiante,Licenciatura,Un jugador,Mejorar habilidad,Juego por diversion,3
+39,16.4,0.0,19.0,29.0,4.1,Estudiante,Maestria,Un jugador,Mejorar habilidad,Juego por diversion,2
+33,29.3,5.2,24.0,20.0,5.7,Empleado,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,3
+21,19.0,4.5,18.0,17.0,2.3,Desempleado,Licenciatura,Multijugador en linea,Relajarme,Gano un poco,1
+32,33.1,6.6,21.0,28.0,5.6,Empleado,Licenciatura,Multijugador en linea,Relajarme,Juego por diversion,2
+42,11.8,3.2,23.0,27.0,3.0,Empleado,Preparatoria,Un jugador,Competir,Juego por diversion,3
+32,5.6,2.9,17.0,26.0,2.9,Empleado,Preparatoria,Un jugador,Competir,Juego por diversion,3
+47,16.6,3.2,27.0,24.0,1.6,Estudiante,Preparatoria,Un jugador,Relajarme,Juego por diversion,2
+22,0.0,4.9,15.0,15.0,3.2,Estudiante,Maestria,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+36,12.1,0.0,12.0,13.0,3.0,Estudiante,Preparatoria,Con amigos en linea,Competir,Gano un poco,3
+37,29.0,6.6,22.0,19.0,3.0,Empleado,Preparatoria,Con amigos en linea,Mejorar habilidad,Juego por diversion,2
+30,37.3,1.9,23.0,43.0,5.5,Estudiante,Licenciatura,Multijugador en linea,Diversion,Juego por diversion,2
+20,4.3,0.0,23.0,20.0,1.0,Empleado,Maestria,Multijugador presencial,Diversion,Juego por diversion,1
+39,18.0,4.1,13.0,26.0,2.9,Estudiante,Preparatoria,Multijugador presencial,Diversion,Juego por diversion,4
+27,25.2,8.9,30.0,23.0,3.7,Estudiante,Preparatoria,Con amigos en linea,Mejorar habilidad,Juego por diversion,2
+33,0.0,1.2,19.0,35.0,3.7,Estudiante,Licenciatura,Con amigos en linea,Competir,Juego por diversion,3
+42,30.3,0.0,25.0,34.0,4.7,Estudiante,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,2
+26,27.8,0.0,11.0,22.0,0.3,Estudiante,Preparatoria,Un jugador,Competir,Juego por diversion,3
+35,32.7,0.0,22.0,13.0,3.2,Estudiante,Doctorado,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+42,31.6,4.0,20.0,0.0,5.2,Estudiante,Licenciatura,Con amigos en linea,Diversion,Juego por diversion,2
+46,11.4,0.8,25.0,26.0,3.0,Estudiante,Licenciatura,Multijugador presencial,Competir,Juego por diversion,2
+44,4.3,4.6,22.0,11.0,1.0,Estudiante,Licenciatura,Con amigos en linea,Diversion,Juego por diversion,3
+21,22.9,1.0,14.0,0.0,2.2,Estudiante,Licenciatura,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+39,24.4,4.9,16.0,30.0,1.6,Estudiante,Preparatoria,Un jugador,Diversion,Juego por diversion,2
+47,61.0,0.7,23.0,5.0,2.4,Empleado,Preparatoria,Un jugador,Socializar,Juego por diversion,1
+43,4.2,6.9,24.0,42.0,3.0,Desempleado,Doctorado,Con amigos en linea,Mejorar habilidad,Gano un poco,3
+21,6.2,1.2,35.0,15.0,2.3,Estudiante,Maestria,Un jugador,Competir,Juego por diversion,2
+34,20.3,9.6,17.0,15.0,3.3,Estudiante,Licenciatura,Multijugador presencial,Relajarme,Juego por diversion,2
+47,13.2,1.5,18.0,15.0,4.5,Estudiante,Preparatoria,Multijugador presencial,Relajarme,Juego por diversion,2
+53,2.4,1.6,12.0,31.0,1.6,Empleado,Licenciatura,Un jugador,Socializar,Juego por diversion,3
+25,9.4,7.0,13.0,20.0,2.3,Desempleado,Maestria,Un jugador,Socializar,Juego por diversion,2
+45,32.4,8.2,18.0,34.0,3.3,Empleado,Licenciatura,Multijugador presencial,Diversion,Juego por diversion,3
+53,19.0,0.0,16.0,15.0,3.4,Estudiante,Maestria,Multijugador presencial,Diversion,Juego por diversion,1
+43,28.6,0.0,27.0,19.0,4.2,Estudiante,Licenciatura,Con amigos en linea,Relajarme,Juego por diversion,2
+50,20.7,6.8,24.0,26.0,1.9,Empleado,Preparatoria,Multijugador presencial,Competir,Es mi sustento,2
+35,48.9,1.6,18.0,22.0,2.2,Estudiante,Licenciatura,Multijugador presencial,Competir,Juego por diversion,2
+35,13.8,0.0,13.0,11.0,5.7,Empleado,Preparatoria,Multijugador en linea,Competir,Juego por diversion,2
+46,27.6,6.8,20.0,15.0,4.1,Desempleado,Doctorado,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+49,13.4,0.0,16.0,27.0,3.4,Estudiante,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,2
+52,9.4,3.0,24.0,15.0,4.7,Estudiante,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,3
+48,7.2,4.6,22.0,10.0,3.2,Empleado,Licenciatura,Con amigos en linea,Mejorar habilidad,Es mi sustento,2
+18,5.1,5.7,13.0,21.0,3.5,Estudiante,Licenciatura,Multijugador en linea,Diversion,Es mi sustento,2
+37,12.6,6.2,21.0,0.0,4.0,Estudiante,Maestria,Multijugador en linea,Competir,Juego por diversion,1
+51,12.1,0.2,31.0,27.0,0.6,Desempleado,Maestria,Multijugador en linea,Socializar,Juego por diversion,1
+33,5.8,4.3,9.0,30.0,3.9,Estudiante,Preparatoria,Multijugador en linea,Competir,Juego por diversion,3
+24,9.5,4.3,19.0,12.0,5.4,Estudiante,Preparatoria,Con amigos en linea,Mejorar habilidad,Juego por diversion,2
+38,24.8,7.7,20.0,28.0,3.8,Empleado,Licenciatura,Multijugador presencial,Socializar,Juego por diversion,2
+21,5.8,4.7,24.0,27.0,3.0,Estudiante,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,2
+50,33.2,0.0,18.0,28.0,3.2,Estudiante,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,4
+47,29.5,0.0,16.0,15.0,4.8,Desempleado,Preparatoria,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+40,20.7,1.5,23.0,28.0,6.4,Empleado,Preparatoria,Con amigos en linea,Diversion,Juego por diversion,3
+18,16.9,10.1,22.0,12.0,3.5,Estudiante,Licenciatura,Con amigos en linea,Socializar,Gano un poco,2
+54,36.0,2.6,26.0,30.0,3.5,Empleado,Maestria,Con amigos en linea,Mejorar habilidad,Juego por diversion,2
+25,36.2,0.0,20.0,33.0,3.2,Estudiante,Licenciatura,Un jugador,Competir,Juego por diversion,3
+23,44.2,3.6,29.0,10.0,2.7,Empleado,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,2
+15,38.5,6.1,18.0,3.0,1.7,Estudiante,Licenciatura,Multijugador en linea,Diversion,Juego por diversion,1
+35,22.3,4.2,18.0,28.0,3.4,Estudiante,Preparatoria,Con amigos en linea,Mejorar habilidad,Juego por diversion,2
+44,6.6,2.3,20.0,4.0,3.3,Estudiante,Licenciatura,Con amigos en linea,Mejorar habilidad,Juego por diversion,2
+52,14.1,8.2,19.0,1.0,3.7,Estudiante,Maestria,Un jugador,Socializar,Gano un poco,2
+22,0.0,6.4,16.0,21.0,3.6,Empleado,Licenciatura,Un jugador,Socializar,Juego por diversion,2
+22,15.7,6.7,12.0,6.0,2.2,Estudiante,Licenciatura,Un jugador,Diversion,Juego por diversion,2
+52,16.3,0.0,30.0,9.0,3.4,Estudiante,Licenciatura,Un jugador,Relajarme,Juego por diversion,2
+49,27.1,0.8,15.0,39.0,2.1,Empleado,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,2
+33,12.2,1.0,20.0,3.0,6.7,Empleado,Preparatoria,Multijugador en linea,Relajarme,Gano un poco,3
+52,31.6,2.8,24.0,1.0,3.6,Estudiante,Licenciatura,Multijugador presencial,Socializar,Juego por diversion,2
+46,28.1,3.4,28.0,27.0,2.4,Empleado,Preparatoria,Multijugador presencial,Competir,Es mi sustento,2
+45,15.5,0.0,27.0,20.0,2.5,Empleado,Doctorado,Con amigos en linea,Socializar,Juego por diversion,2
+15,19.9,0.0,19.0,32.0,3.5,Desempleado,Licenciatura,Con amigos en linea,Socializar,Juego por diversion,3
+37,15.7,3.5,18.0,0.0,1.9,Estudiante,Doctorado,Con amigos en linea,Competir,Juego por diversion,2
+19,17.9,4.2,22.0,17.0,3.1,Empleado,Doctorado,Con amigos en linea,Relajarme,Juego por diversion,1
+41,13.5,8.5,29.0,28.0,2.3,Estudiante,Licenciatura,Con amigos en linea,Diversion,Juego por diversion,2
+21,7.8,3.2,12.0,30.0,3.9,Empleado,Preparatoria,Un jugador,Competir,Juego por diversion,3
+54,12.1,6.1,17.0,45.0,1.9,Empleado,Preparatoria,Un jugador,Relajarme,Juego por diversion,2
+15,25.7,0.0,17.0,35.0,2.8,Desempleado,Preparatoria,Multijugador en linea,Diversion,Gano un poco,3
+34,7.7,4.3,18.0,0.0,4.3,Desempleado,Preparatoria,Un jugador,Socializar,Juego por diversion,2
+47,8.3,0.0,10.0,13.0,1.5,Estudiante,Preparatoria,Un jugador,Socializar,Juego por diversion,3
+27,17.5,0.3,16.0,31.0,1.4,Desempleado,Licenciatura,Multijugador presencial,Socializar,Juego por diversion,2
+21,43.1,3.4,26.0,9.0,0.5,Estudiante,Licenciatura,Multijugador presencial,Socializar,Juego por diversion,1
+37,26.6,3.4,28.0,27.0,3.9,Desempleado,Preparatoria,Multijugador presencial,Relajarme,Gano un poco,3
+16,18.9,1.0,34.0,26.0,2.5,Desempleado,Preparatoria,Multijugador en linea,Competir,Juego por diversion,1
+46,30.1,5.1,20.0,0.0,4.5,Desempleado,Preparatoria,Multijugador en linea,Competir,Juego por diversion,2
+22,24.5,0.0,10.0,0.0,2.5,Estudiante,Licenciatura,Multijugador en linea,Diversion,Juego por diversion,3
+46,0.0,1.4,24.0,18.0,2.2,Empleado,Licenciatura,Un jugador,Relajarme,Juego por diversion,2
+28,21.2,3.6,19.0,8.0,3.8,Estudiante,Preparatoria,Multijugador presencial,Relajarme,Gano un poco,1
+15,28.1,1.5,22.0,27.0,3.6,Estudiante,Preparatoria,Multijugador en linea,Relajarme,Juego por diversion,3
+38,32.4,3.6,9.0,29.0,3.3,Desempleado,Preparatoria,Multijugador presencial,Competir,Juego por diversion,3
+46,29.3,9.0,22.0,16.0,2.0,Estudiante,Licenciatura,Multijugador en linea,Competir,Juego por diversion,2
+21,29.5,1.4,21.0,31.0,5.3,Estudiante,Maestria,Multijugador en linea,Mejorar habilidad,Juego por diversion,1
+27,0.0,2.6,11.0,17.0,2.5,Estudiante,Licenciatura,Multijugador en linea,Diversion,Juego por diversion,3
+25,13.9,0.2,20.0,12.0,2.3,Estudiante,Maestria,Multijugador en linea,Competir,Juego por diversion,3
+17,21.0,0.0,30.0,6.0,5.0,Empleado,Preparatoria,Con amigos en linea,Diversion,Juego por diversion,2
+21,41.1,2.4,18.0,27.0,4.9,Estudiante,Preparatoria,Multijugador en linea,Relajarme,Juego por diversion,2
+46,11.3,5.9,19.0,5.0,3.1,Estudiante,Preparatoria,Multijugador en linea,Relajarme,Juego por diversion,1
+25,30.6,0.5,19.0,1.0,3.2,Empleado,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,2
+32,33.0,6.3,21.0,14.0,5.9,Estudiante,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,1
+24,40.4,3.9,26.0,30.0,3.4,Estudiante,Preparatoria,Con amigos en linea,Diversion,Juego por diversion,2
+40,29.6,0.0,22.0,30.0,2.0,Desempleado,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,4
+32,38.0,0.0,22.0,14.0,4.0,Empleado,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,2
+47,24.4,0.0,11.0,29.0,5.1,Estudiante,Preparatoria,Un jugador,Diversion,Gano un poco,3
+38,8.3,4.0,27.0,16.0,2.5,Empleado,Licenciatura,Un jugador,Socializar,Juego por diversion,1
+36,3.8,2.2,23.0,34.0,3.5,Estudiante,Licenciatura,Multijugador presencial,Socializar,Juego por diversion,3
+15,28.0,6.5,17.0,33.0,4.9,Empleado,Preparatoria,Un jugador,Diversion,Gano un poco,2
+54,5.6,2.4,17.0,28.0,2.4,Empleado,Preparatoria,Multijugador presencial,Socializar,Gano un poco,1
+22,41.6,3.7,20.0,20.0,1.0,Estudiante,Preparatoria,Multijugador en linea,Competir,Juego por diversion,2
+20,32.3,5.5,25.0,9.0,3.4,Empleado,Licenciatura,Multijugador presencial,Competir,Juego por diversion,2
+16,25.2,9.0,11.0,6.0,6.0,Empleado,Licenciatura,Multijugador presencial,Socializar,Juego por diversion,3
+42,16.7,0.0,21.0,26.0,1.5,Estudiante,Maestria,Con amigos en linea,Diversion,Juego por diversion,2
+33,20.3,6.3,20.0,36.0,4.2,Estudiante,Preparatoria,Con amigos en linea,Diversion,Juego por diversion,3
+25,31.7,3.1,29.0,23.0,2.6,Estudiante,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,2
+37,24.9,5.5,21.0,35.0,3.7,Estudiante,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,2
+53,7.6,1.9,21.0,38.0,5.3,Estudiante,Maestria,Multijugador presencial,Diversion,Juego por diversion,3
+41,39.3,7.1,15.0,46.0,3.4,Empleado,Licenciatura,Un jugador,Mejorar habilidad,Es mi sustento,4
+33,19.1,0.6,9.0,20.0,3.8,Empleado,Preparatoria,Con amigos en linea,Socializar,Juego por diversion,3
+32,14.4,4.3,19.0,13.0,5.2,Estudiante,Preparatoria,Multijugador presencial,Competir,Juego por diversion,2
+31,21.5,4.4,23.0,38.0,3.1,Estudiante,Doctorado,Con amigos en linea,Socializar,Juego por diversion,3
+23,19.5,6.2,30.0,39.0,1.8,Empleado,Licenciatura,Un jugador,Mejorar habilidad,Juego por diversion,2
+35,38.5,0.0,28.0,41.0,3.1,Estudiante,Preparatoria,Multijugador presencial,Diversion,Gano un poco,3
+40,22.7,0.0,24.0,37.0,1.8,Empleado,Licenciatura,Un jugador,Diversion,Juego por diversion,2
+22,16.1,8.4,19.0,35.0,4.1,Empleado,Preparatoria,Multijugador presencial,Diversion,Juego por diversion,1
+50,20.8,6.8,21.0,24.0,1.3,Estudiante,Preparatoria,Multijugador presencial,Competir,Juego por diversion,3
+35,23.5,2.3,24.0,38.0,1.2,Empleado,Doctorado,Multijugador en linea,Relajarme,Juego por diversion,2
+34,7.7,3.0,20.0,10.0,2.9,Estudiante,Maestria,Multijugador en linea,Relajarme,Juego por diversion,2
+35,0.6,0.0,27.0,6.0,3.7,Estudiante,Maestria,Con amigos en linea,Diversion,Gano un poco,2
+50,12.9,8.2,24.0,11.0,3.8,Desempleado,Preparatoria,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+22,20.4,0.0,15.0,15.0,1.8,Empleado,Preparatoria,Con amigos en linea,Diversion,Juego por diversion,3
+40,0.0,4.5,18.0,26.0,2.1,Estudiante,Maestria,Multijugador en linea,Diversion,Juego por diversion,3
+23,1.2,3.0,30.0,31.0,3.5,Estudiante,Licenciatura,Con amigos en linea,Relajarme,Juego por diversion,1
+39,13.9,6.2,17.0,0.0,2.1,Empleado,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,1
+49,21.4,6.6,17.0,29.0,3.8,Empleado,Licenciatura,Con amigos en linea,Mejorar habilidad,Juego por diversion,2
+46,25.5,0.0,15.0,12.0,1.8,Estudiante,Preparatoria,Un jugador,Competir,Juego por diversion,2
+41,7.6,0.2,20.0,30.0,4.6,Estudiante,Licenciatura,Multijugador presencial,Competir,Juego por diversion,2
+45,29.2,3.9,24.0,38.0,2.5,Estudiante,Licenciatura,Multijugador presencial,Socializar,Juego por diversion,2
+23,0.0,0.0,15.0,51.0,4.5,Estudiante,Preparatoria,Multijugador presencial,Diversion,Juego por diversion,4
+46,15.3,6.1,24.0,16.0,1.2,Empleado,Preparatoria,Con amigos en linea,Competir,Juego por diversion,2
+44,17.5,4.8,11.0,11.0,4.3,Estudiante,Preparatoria,Un jugador,Socializar,Juego por diversion,2
+26,43.8,0.0,19.0,37.0,4.0,Estudiante,Preparatoria,Multijugador presencial,Relajarme,Juego por diversion,4
+19,30.1,8.4,21.0,15.0,2.5,Estudiante,Preparatoria,Multijugador presencial,Diversion,Juego por diversion,2
+21,4.7,0.6,19.0,6.0,3.1,Empleado,Preparatoria,Un jugador,Relajarme,Juego por diversion,1
+27,27.7,5.8,31.0,31.0,3.1,Empleado,Maestria,Multijugador en linea,Relajarme,Juego por diversion,2
+18,16.1,0.1,19.0,27.0,1.4,Estudiante,Preparatoria,Un jugador,Socializar,Juego por diversion,3
+39,20.0,7.5,23.0,29.0,5.0,Estudiante,Preparatoria,Con amigos en linea,Competir,Juego por diversion,3
+44,32.7,2.3,13.0,4.0,2.4,Desempleado,Preparatoria,Multijugador presencial,Competir,Juego por diversion,2
+16,16.5,0.6,27.0,7.0,3.5,Estudiante,Licenciatura,Multijugador en linea,Relajarme,Juego por diversion,1
+25,6.9,6.3,22.0,17.0,3.5,Estudiante,Maestria,Un jugador,Diversion,Juego por diversion,2
+26,17.9,1.9,21.0,7.0,2.3,Estudiante,Licenciatura,Un jugador,Socializar,Juego por diversion,2
+36,23.2,0.1,20.0,48.0,1.5,Estudiante,Doctorado,Un jugador,Relajarme,Juego por diversion,2
+16,19.1,0.3,24.0,14.0,3.0,Empleado,Maestria,Multijugador presencial,Diversion,Gano un poco,2
+38,9.3,3.7,18.0,3.0,2.8,Estudiante,Preparatoria,Multijugador presencial,Competir,Juego por diversion,2
+35,14.9,4.2,19.0,35.0,1.8,Empleado,Maestria,Multijugador en linea,Socializar,Juego por diversion,2
+43,16.4,1.7,25.0,0.0,4.7,Empleado,Licenciatura,Multijugador en linea,Competir,Juego por diversion,1
+18,18.2,1.5,16.0,6.0,2.8,Empleado,Maestria,Un jugador,Competir,Gano un poco,1
+23,28.4,2.8,18.0,20.0,3.1,Empleado,Preparatoria,Un jugador,Mejorar habilidad,Gano un poco,3
+15,33.0,0.8,17.0,26.0,1.3,Estudiante,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,2
+50,15.7,6.7,33.0,49.0,4.9,Estudiante,Maestria,Multijugador presencial,Diversion,Juego por diversion,2
+19,5.1,6.7,25.0,32.0,4.0,Estudiante,Maestria,Con amigos en linea,Competir,Juego por diversion,3
+44,24.6,0.3,22.0,25.0,3.3,Estudiante,Preparatoria,Multijugador presencial,Mejorar habilidad,Juego por diversion,3
+32,10.4,1.2,31.0,12.0,2.9,Empleado,Licenciatura,Multijugador presencial,Relajarme,Juego por diversion,2
+27,35.6,10.8,16.0,33.0,4.6,Estudiante,Preparatoria,Con amigos en linea,Competir,Juego por diversion,3
+21,23.5,4.9,17.0,16.0,5.5,Estudiante,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,2
+35,26.9,0.2,25.0,40.0,1.9,Empleado,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,2
+44,0.0,3.7,26.0,27.0,2.4,Estudiante,Maestria,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+41,16.8,1.4,22.0,8.0,2.3,Estudiante,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,2
+34,26.5,2.2,23.0,31.0,0.9,Empleado,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,2
+47,1.6,6.5,28.0,0.0,3.2,Empleado,Maestria,Multijugador presencial,Competir,Juego por diversion,1
+40,17.0,1.1,24.0,8.0,2.6,Estudiante,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,2
+31,32.8,1.3,21.0,35.0,2.9,Empleado,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,3
+25,26.2,2.3,19.0,32.0,3.6,Empleado,Preparatoria,Con amigos en linea,Competir,Juego por diversion,2
+31,5.9,4.2,21.0,30.0,3.1,Estudiante,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,3
+46,28.9,2.2,25.0,19.0,1.1,Desempleado,Licenciatura,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+28,27.1,8.9,14.0,15.0,4.2,Estudiante,Licenciatura,Multijugador presencial,Relajarme,Juego por diversion,2
+17,27.0,0.9,9.0,12.0,2.8,Desempleado,Maestria,Multijugador presencial,Competir,Juego por diversion,3
+37,22.3,6.1,18.0,25.0,4.4,Estudiante,Licenciatura,Un jugador,Mejorar habilidad,Juego por diversion,2
+32,21.8,0.0,20.0,15.0,3.1,Estudiante,Maestria,Con amigos en linea,Competir,Juego por diversion,3
+54,15.1,0.0,17.0,31.0,4.3,Empleado,Maestria,Multijugador presencial,Socializar,Juego por diversion,3
+43,10.8,2.4,25.0,0.0,2.3,Empleado,Preparatoria,Con amigos en linea,Diversion,Juego por diversion,2
+22,0.0,2.3,19.0,29.0,4.1,Estudiante,Maestria,Multijugador presencial,Diversion,Gano un poco,2
+38,24.0,0.0,22.0,22.0,2.9,Desempleado,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,3
+49,22.0,0.0,17.0,1.0,2.3,Desempleado,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,2
+47,17.5,5.5,22.0,26.0,1.6,Estudiante,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,2
+49,23.7,7.1,19.0,6.0,1.9,Estudiante,Licenciatura,Con amigos en linea,Diversion,Juego por diversion,1
+38,25.3,8.5,24.0,19.0,2.0,Empleado,Preparatoria,Un jugador,Socializar,Juego por diversion,2
+38,8.7,7.2,17.0,17.0,2.2,Empleado,Preparatoria,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+16,18.0,0.9,25.0,5.0,4.1,Estudiante,Preparatoria,Multijugador en linea,Competir,Juego por diversion,2
+46,24.8,3.8,24.0,39.0,3.3,Estudiante,Preparatoria,Con amigos en linea,Mejorar habilidad,Juego por diversion,3
+38,37.2,3.5,18.0,22.0,4.0,Desempleado,Maestria,Multijugador presencial,Competir,Juego por diversion,4
+18,15.1,1.4,29.0,0.0,2.7,Estudiante,Licenciatura,Multijugador presencial,Socializar,Juego por diversion,1
+45,21.4,5.5,21.0,23.0,3.1,Estudiante,Preparatoria,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+16,11.7,3.0,18.0,35.0,1.2,Empleado,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,2
+31,11.7,6.3,23.0,19.0,3.5,Estudiante,Licenciatura,Con amigos en linea,Diversion,Juego por diversion,3
+24,34.7,5.8,20.0,16.0,2.3,Empleado,Licenciatura,Un jugador,Relajarme,Juego por diversion,2
+49,0.0,6.4,25.0,15.0,5.0,Empleado,Preparatoria,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+37,31.2,4.8,15.0,27.0,3.8,Empleado,Licenciatura,Un jugador,Socializar,Gano un poco,4
+37,10.8,1.0,26.0,18.0,2.9,Empleado,Licenciatura,Multijugador presencial,Socializar,Juego por diversion,2
+41,13.8,0.4,24.0,8.0,1.3,Estudiante,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,1
+20,19.6,4.0,20.0,20.0,4.4,Empleado,Preparatoria,Un jugador,Diversion,Juego por diversion,2
+21,20.9,3.0,24.0,5.0,0.9,Empleado,Licenciatura,Un jugador,Mejorar habilidad,Juego por diversion,1
+24,27.6,6.4,26.0,52.0,3.0,Estudiante,Preparatoria,Con amigos en linea,Mejorar habilidad,Juego por diversion,3
+36,31.3,0.0,28.0,23.0,1.9,Empleado,Licenciatura,Un jugador,Mejorar habilidad,Juego por diversion,2
+39,32.3,5.8,17.0,6.0,4.2,Desempleado,Maestria,Con amigos en linea,Socializar,Juego por diversion,2
+40,0.6,3.5,10.0,41.0,1.8,Desempleado,Licenciatura,Con amigos en linea,Diversion,Juego por diversion,2
+15,19.3,0.0,17.0,8.0,3.8,Empleado,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,1
+16,23.5,5.7,18.0,0.0,2.3,Estudiante,Preparatoria,Multijugador en linea,Competir,Juego por diversion,1
+22,24.2,4.0,14.0,32.0,3.0,Estudiante,Licenciatura,Con amigos en linea,Competir,Juego por diversion,3
+38,2.0,1.6,16.0,49.0,3.0,Estudiante,Licenciatura,Un jugador,Socializar,Juego por diversion,4
+33,37.2,0.9,19.0,13.0,5.6,Estudiante,Maestria,Multijugador presencial,Competir,Gano un poco,2
+18,30.6,6.3,10.0,18.0,0.5,Estudiante,Maestria,Un jugador,Competir,Juego por diversion,2
+45,18.4,0.7,30.0,28.0,4.6,Empleado,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,2
+18,54.7,7.9,34.0,0.0,1.6,Estudiante,Preparatoria,Un jugador,Socializar,Juego por diversion,1
+25,6.6,2.3,18.0,4.0,3.1,Estudiante,Preparatoria,Multijugador presencial,Diversion,Juego por diversion,2
+44,16.0,4.4,26.0,6.0,3.8,Estudiante,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,2
+32,17.1,3.6,21.0,16.0,0.6,Estudiante,Maestria,Multijugador presencial,Socializar,Juego por diversion,2
+51,26.4,3.4,15.0,34.0,2.2,Estudiante,Preparatoria,Multijugador presencial,Diversion,Juego por diversion,3
+45,11.4,4.2,20.0,27.0,1.1,Empleado,Preparatoria,Multijugador en linea,Competir,Juego por diversion,3
+22,11.7,0.0,13.0,30.0,5.2,Empleado,Preparatoria,Con amigos en linea,Socializar,Juego por diversion,4
+17,33.2,7.3,35.0,46.0,3.7,Estudiante,Preparatoria,Con amigos en linea,Diversion,Juego por diversion,1
+40,17.0,5.4,15.0,11.0,1.4,Empleado,Maestria,Multijugador presencial,Diversion,Juego por diversion,2
+41,31.1,4.7,14.0,24.0,3.3,Estudiante,Preparatoria,Un jugador,Diversion,Juego por diversion,1
+53,36.4,3.2,19.0,25.0,4.1,Empleado,Preparatoria,Multijugador presencial,Diversion,Juego por diversion,1
+31,16.6,3.0,19.0,42.0,2.5,Empleado,Preparatoria,Un jugador,Competir,Juego por diversion,4
+18,8.7,7.0,23.0,30.0,3.9,Empleado,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,2
+49,14.2,2.8,27.0,12.0,2.2,Empleado,Preparatoria,Un jugador,Diversion,Gano un poco,2
+24,26.0,1.8,21.0,18.0,0.6,Empleado,Preparatoria,Con amigos en linea,Competir,Juego por diversion,2
+24,33.5,0.3,19.0,15.0,3.3,Desempleado,Licenciatura,Multijugador presencial,Socializar,Gano un poco,2
+31,23.8,0.0,13.0,20.0,7.0,Estudiante,Preparatoria,Un jugador,Competir,Juego por diversion,1
+54,5.4,5.6,25.0,28.0,2.2,Empleado,Licenciatura,Un jugador,Relajarme,Juego por diversion,1
+14,23.2,4.1,11.0,31.0,0.7,Estudiante,Preparatoria,Multijugador en linea,Competir,Gano un poco,2
+31,40.9,0.0,13.0,14.0,4.5,Estudiante,Preparatoria,Multijugador presencial,Relajarme,Gano un poco,3
+34,39.1,3.1,17.0,15.0,4.2,Estudiante,Preparatoria,Con amigos en linea,Competir,Juego por diversion,2
+15,12.1,3.7,28.0,7.0,3.2,Estudiante,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,2
+30,23.3,7.6,15.0,25.0,2.8,Estudiante,Licenciatura,Con amigos en linea,Relajarme,Juego por diversion,3
+25,24.9,4.1,23.0,6.0,5.2,Empleado,Licenciatura,Multijugador en linea,Relajarme,Juego por diversion,2
+49,1.4,5.8,19.0,29.0,3.9,Estudiante,Maestria,Multijugador en linea,Competir,Juego por diversion,3
+15,25.1,11.3,22.0,16.0,1.1,Empleado,Licenciatura,Un jugador,Diversion,Juego por diversion,1
+30,0.0,0.0,34.0,11.0,2.9,Empleado,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,2
+54,0.8,8.3,12.0,17.0,2.8,Estudiante,Licenciatura,Un jugador,Mejorar habilidad,Juego por diversion,2
+18,9.4,4.7,13.0,27.0,1.5,Empleado,Maestria,Multijugador presencial,Competir,Juego por diversion,2
+26,1.8,3.9,25.0,6.0,5.7,Estudiante,Preparatoria,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+53,20.8,0.6,19.0,23.0,4.3,Empleado,Licenciatura,Con amigos en linea,Socializar,Gano un poco,2
+29,23.8,2.3,24.0,18.0,1.0,Empleado,Preparatoria,Multijugador presencial,Competir,Juego por diversion,2
+21,11.9,5.8,28.0,33.0,3.4,Empleado,Licenciatura,Multijugador presencial,Relajarme,Es mi sustento,2
+53,15.5,0.0,12.0,50.0,4.7,Estudiante,Preparatoria,Un jugador,Diversion,Juego por diversion,3
+46,28.3,0.0,20.0,0.0,3.7,Estudiante,Licenciatura,Con amigos en linea,Mejorar habilidad,Juego por diversion,2
+36,22.9,6.7,18.0,15.0,3.3,Estudiante,Licenciatura,Un jugador,Competir,Juego por diversion,1
+54,44.2,2.5,15.0,13.0,3.2,Estudiante,Maestria,Un jugador,Mejorar habilidad,Gano un poco,2
+23,35.7,2.2,9.0,18.0,1.1,Estudiante,Licenciatura,Multijugador en linea,Relajarme,Juego por diversion,3
+27,0.0,0.0,25.0,2.0,2.9,Estudiante,Preparatoria,Multijugador en linea,Competir,Juego por diversion,1
+52,16.0,2.5,23.0,21.0,2.8,Empleado,Licenciatura,Multijugador en linea,Mejorar habilidad,Gano un poco,2
+34,9.3,2.6,21.0,25.0,4.2,Estudiante,Licenciatura,Un jugador,Competir,Juego por diversion,1
+48,3.2,2.5,25.0,56.0,0.9,Empleado,Licenciatura,Con amigos en linea,Socializar,Juego por diversion,3
+25,32.3,2.3,21.0,11.0,4.5,Estudiante,Licenciatura,Un jugador,Competir,Juego por diversion,2
+19,19.6,3.4,23.0,26.0,2.3,Estudiante,Licenciatura,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+15,5.4,5.4,26.0,21.0,3.3,Empleado,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,3
+44,38.2,0.0,21.0,10.0,2.7,Estudiante,Doctorado,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+30,37.8,2.9,23.0,2.0,3.0,Empleado,Preparatoria,Multijugador presencial,Relajarme,Juego por diversion,1
+32,16.8,3.6,17.0,12.0,1.8,Estudiante,Preparatoria,Un jugador,Competir,Gano un poco,1
+17,27.0,1.4,20.0,39.0,3.1,Desempleado,Preparatoria,Con amigos en linea,Socializar,Juego por diversion,3
+44,13.3,1.9,13.0,30.0,1.4,Empleado,Preparatoria,Multijugador en linea,Diversion,Juego por diversion,2
+37,19.6,0.0,11.0,14.0,2.6,Empleado,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,2
+45,1.1,0.0,19.0,22.0,2.1,Empleado,Licenciatura,Multijugador presencial,Relajarme,Juego por diversion,1
+32,15.4,1.1,28.0,25.0,2.8,Empleado,Licenciatura,Un jugador,Relajarme,Gano un poco,2
+51,22.4,2.7,9.0,31.0,3.4,Estudiante,Licenciatura,Con amigos en linea,Socializar,Juego por diversion,2
+35,10.2,4.7,13.0,10.0,4.4,Estudiante,Licenciatura,Multijugador en linea,Relajarme,Juego por diversion,4
+35,37.3,8.4,9.0,24.0,2.9,Empleado,Maestria,Un jugador,Diversion,Juego por diversion,2
+37,7.4,4.4,15.0,11.0,3.4,Estudiante,Maestria,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+36,23.2,6.5,28.0,12.0,3.6,Empleado,Preparatoria,Con amigos en linea,Diversion,Es mi sustento,2
+46,22.6,1.1,26.0,37.0,3.1,Estudiante,Preparatoria,Un jugador,Diversion,Juego por diversion,2
+21,0.5,2.3,25.0,16.0,3.2,Estudiante,Licenciatura,Un jugador,Competir,Juego por diversion,2
+54,34.0,1.5,20.0,9.0,5.4,Estudiante,Maestria,Multijugador en linea,Competir,Juego por diversion,2
+27,22.0,0.4,23.0,6.0,3.2,Empleado,Licenciatura,Multijugador en linea,Diversion,Juego por diversion,2
+23,32.4,7.2,23.0,2.0,4.8,Empleado,Maestria,Un jugador,Competir,Juego por diversion,1
+53,22.1,1.3,20.0,29.0,4.5,Empleado,Maestria,Un jugador,Competir,Juego por diversion,2
+33,24.1,2.4,29.0,13.0,2.9,Estudiante,Licenciatura,Con amigos en linea,Diversion,Juego por diversion,3
+20,41.2,6.4,13.0,17.0,1.6,Estudiante,Licenciatura,Un jugador,Relajarme,Juego por diversion,3
+52,20.0,1.9,19.0,13.0,3.2,Empleado,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,2
+32,24.0,4.1,22.0,21.0,2.6,Empleado,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,2
+15,13.2,5.5,11.0,29.0,0.2,Empleado,Licenciatura,Multijugador en linea,Mejorar habilidad,Juego por diversion,1
+40,23.1,6.5,19.0,25.0,4.9,Estudiante,Maestria,Un jugador,Relajarme,Gano un poco,3
+42,18.0,4.2,15.0,32.0,2.8,Empleado,Preparatoria,Multijugador presencial,Competir,Juego por diversion,3
+42,19.6,0.6,27.0,28.0,4.6,Estudiante,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,2
+18,35.3,1.9,17.0,13.0,2.5,Empleado,Preparatoria,Multijugador en linea,Mejorar habilidad,Gano un poco,2
+52,13.7,3.3,13.0,30.0,3.8,Estudiante,Preparatoria,Multijugador presencial,Competir,Juego por diversion,3
+47,20.3,1.2,19.0,0.0,2.3,Estudiante,Doctorado,Con amigos en linea,Diversion,Juego por diversion,2
+31,15.2,0.0,25.0,17.0,2.3,Empleado,Licenciatura,Con amigos en linea,Diversion,Juego por diversion,1
+38,49.1,5.6,20.0,22.0,4.0,Desempleado,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,2
+35,19.4,8.2,29.0,28.0,3.1,Estudiante,Preparatoria,Con amigos en linea,Socializar,Juego por diversion,2
+51,15.5,3.2,17.0,16.0,5.1,Empleado,Licenciatura,Multijugador presencial,Competir,Juego por diversion,1
+50,21.4,0.0,8.0,33.0,3.2,Estudiante,Preparatoria,Multijugador en linea,Relajarme,Juego por diversion,3
+23,1.5,10.3,21.0,20.0,2.4,Empleado,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,2
+14,38.2,2.2,18.0,12.0,2.2,Desempleado,Licenciatura,Multijugador en linea,Competir,Gano un poco,2
+41,8.2,3.0,22.0,38.0,2.6,Empleado,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,2
+19,9.1,4.0,26.0,30.0,2.5,Estudiante,Preparatoria,Multijugador presencial,Relajarme,Juego por diversion,3
+49,27.1,1.4,21.0,16.0,4.8,Estudiante,Licenciatura,Multijugador en linea,Relajarme,Juego por diversion,2
+24,5.5,6.7,19.0,26.0,2.9,Estudiante,Preparatoria,Un jugador,Socializar,Juego por diversion,3
+14,36.7,5.1,16.0,6.0,2.5,Empleado,Preparatoria,Con amigos en linea,Mejorar habilidad,Juego por diversion,1
+30,22.6,5.8,15.0,20.0,5.2,Estudiante,Preparatoria,Con amigos en linea,Socializar,Juego por diversion,2
+19,36.7,4.0,19.0,0.0,3.2,Estudiante,Preparatoria,Multijugador presencial,Relajarme,Juego por diversion,2
+16,0.0,2.5,25.0,23.0,4.4,Empleado,Licenciatura,Multijugador en linea,Competir,Juego por diversion,1
+35,17.3,6.1,31.0,26.0,4.8,Empleado,Licenciatura,Con amigos en linea,Relajarme,Juego por diversion,3
+23,25.9,0.0,23.0,25.0,2.9,Empleado,Preparatoria,Multijugador presencial,Diversion,Gano un poco,3
+32,10.8,0.1,28.0,34.0,5.0,Desempleado,Maestria,Multijugador en linea,Competir,Juego por diversion,3
+22,40.3,3.6,25.0,0.0,3.9,Estudiante,Preparatoria,Un jugador,Relajarme,Juego por diversion,2
+43,22.5,3.2,24.0,41.0,1.9,Estudiante,Preparatoria,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+52,17.0,0.0,8.0,35.0,2.2,Empleado,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,4
+41,22.9,0.0,18.0,22.0,2.6,Estudiante,Maestria,Un jugador,Diversion,Juego por diversion,3
+44,30.9,0.0,18.0,10.0,2.4,Desempleado,Preparatoria,Multijugador presencial,Competir,Juego por diversion,1
+21,20.1,6.2,17.0,9.0,3.2,Empleado,Maestria,Con amigos en linea,Relajarme,Gano un poco,2
+53,20.6,0.3,16.0,20.0,3.0,Estudiante,Maestria,Un jugador,Diversion,Juego por diversion,3
+43,16.6,0.0,14.0,12.0,1.6,Estudiante,Licenciatura,Multijugador presencial,Socializar,Juego por diversion,2
+53,26.5,0.0,21.0,15.0,4.9,Empleado,Preparatoria,Multijugador presencial,Diversion,Juego por diversion,2
+44,20.8,3.1,22.0,35.0,3.1,Estudiante,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,3
+40,19.4,0.0,19.0,15.0,5.4,Estudiante,Preparatoria,Multijugador presencial,Mejorar habilidad,Juego por diversion,1
+46,34.6,1.7,24.0,15.0,2.4,Estudiante,Licenciatura,Un jugador,Competir,Juego por diversion,3
+34,16.8,7.5,33.0,13.0,1.5,Empleado,Preparatoria,Multijugador presencial,Relajarme,Juego por diversion,2
+53,7.5,3.4,22.0,26.0,3.3,Estudiante,Licenciatura,Multijugador presencial,Competir,Juego por diversion,3
+30,17.3,0.0,20.0,14.0,4.4,Estudiante,Licenciatura,Multijugador presencial,Diversion,Juego por diversion,3
+39,13.3,4.8,15.0,20.0,3.2,Desempleado,Licenciatura,Con amigos en linea,Competir,Gano un poco,2
+49,9.8,0.0,15.0,7.0,2.7,Empleado,Licenciatura,Un jugador,Mejorar habilidad,Juego por diversion,2
+31,28.0,0.7,27.0,14.0,4.3,Estudiante,Licenciatura,Con amigos en linea,Relajarme,Juego por diversion,2
+49,20.1,4.4,22.0,23.0,1.6,Estudiante,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,1
+29,21.3,0.0,11.0,29.0,2.3,Estudiante,Maestria,Con amigos en linea,Diversion,Gano un poco,3
+20,37.0,0.0,22.0,19.0,3.6,Estudiante,Preparatoria,Un jugador,Socializar,Juego por diversion,3
+42,28.0,4.1,11.0,10.0,3.6,Estudiante,Doctorado,Multijugador presencial,Socializar,Gano un poco,1
+35,23.1,0.0,13.0,6.0,0.6,Estudiante,Preparatoria,Un jugador,Socializar,Juego por diversion,3
+23,15.4,0.0,26.0,25.0,2.0,Empleado,Preparatoria,Con amigos en linea,Socializar,Gano un poco,2
+18,32.0,2.6,23.0,0.0,1.6,Estudiante,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,2
+20,15.3,1.8,23.0,27.0,3.4,Empleado,Licenciatura,Multijugador presencial,Competir,Juego por diversion,1
+19,36.9,0.0,8.0,33.0,4.2,Estudiante,Maestria,Un jugador,Socializar,Juego por diversion,3
+36,33.4,1.9,24.0,20.0,2.7,Estudiante,Preparatoria,Multijugador presencial,Relajarme,Juego por diversion,3
+54,17.2,4.7,27.0,31.0,3.0,Empleado,Maestria,Un jugador,Relajarme,Juego por diversion,2
+36,27.8,0.0,16.0,0.0,2.1,Estudiante,Preparatoria,Con amigos en linea,Socializar,Juego por diversion,1
+46,29.1,2.0,24.0,19.0,2.6,Empleado,Licenciatura,Con amigos en linea,Socializar,Juego por diversion,2
+39,20.4,2.5,15.0,17.0,3.1,Desempleado,Preparatoria,Multijugador en linea,Diversion,Juego por diversion,2
+49,25.5,6.0,18.0,12.0,2.9,Empleado,Maestria,Con amigos en linea,Socializar,Juego por diversion,2
+47,36.2,4.7,19.0,23.0,4.3,Empleado,Preparatoria,Multijugador presencial,Diversion,Juego por diversion,1
+39,0.0,0.1,12.0,30.0,1.2,Estudiante,Licenciatura,Multijugador presencial,Competir,Juego por diversion,2
+17,23.6,0.0,13.0,0.0,3.3,Estudiante,Maestria,Multijugador en linea,Competir,Juego por diversion,2
+53,26.0,3.3,25.0,15.0,4.8,Estudiante,Licenciatura,Con amigos en linea,Relajarme,Es mi sustento,2
+20,25.2,0.0,12.0,18.0,2.6,Empleado,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,2
+39,11.8,5.4,20.0,0.0,3.2,Estudiante,Licenciatura,Multijugador en linea,Competir,Es mi sustento,3
+28,16.5,6.0,21.0,12.0,4.1,Estudiante,Maestria,Un jugador,Relajarme,Juego por diversion,2
+20,18.2,5.1,24.0,17.0,4.0,Empleado,Preparatoria,Multijugador presencial,Relajarme,Juego por diversion,2
+18,42.5,1.5,21.0,18.0,3.6,Estudiante,Licenciatura,Un jugador,Competir,Juego por diversion,2
+37,11.6,0.5,12.0,20.0,2.0,Estudiante,Preparatoria,Multijugador en linea,Diversion,Juego por diversion,2
+14,30.0,0.0,22.0,17.0,1.9,Estudiante,Maestria,Multijugador presencial,Socializar,Juego por diversion,1
+48,33.7,1.7,12.0,19.0,3.3,Empleado,Preparatoria,Multijugador en linea,Competir,Gano un poco,4
+51,20.1,5.3,25.0,35.0,0.7,Empleado,Maestria,Un jugador,Socializar,Juego por diversion,2
+39,44.2,1.9,9.0,18.0,3.0,Empleado,Licenciatura,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+47,18.0,0.6,18.0,46.0,2.7,Empleado,Licenciatura,Con amigos en linea,Competir,Juego por diversion,4
+26,10.8,4.9,15.0,15.0,2.8,Empleado,Preparatoria,Multijugador en linea,Diversion,Juego por diversion,2
+54,15.1,1.9,12.0,17.0,3.4,Desempleado,Licenciatura,Con amigos en linea,Relajarme,Juego por diversion,2
+32,23.3,3.3,14.0,8.0,5.0,Empleado,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,2
+38,31.6,0.6,11.0,13.0,3.7,Empleado,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,2
+20,7.3,5.5,12.0,7.0,3.7,Empleado,Licenciatura,Con amigos en linea,Competir,Gano un poco,2
+39,8.7,4.1,11.0,34.0,2.5,Estudiante,Licenciatura,Multijugador en linea,Competir,Juego por diversion,2
+42,33.7,0.0,21.0,51.0,2.7,Empleado,Licenciatura,Con amigos en linea,Relajarme,Juego por diversion,3
+44,27.8,6.0,11.0,27.0,3.3,Empleado,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,2
+54,12.6,2.0,13.0,0.0,3.9,Empleado,Preparatoria,Con amigos en linea,Diversion,Juego por diversion,2
+45,5.3,4.7,31.0,21.0,2.8,Estudiante,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,2
+32,0.0,3.5,27.0,31.0,3.5,Estudiante,Licenciatura,Multijugador en linea,Competir,Juego por diversion,1
+52,8.3,0.0,18.0,49.0,2.3,Estudiante,Licenciatura,Con amigos en linea,Mejorar habilidad,Juego por diversion,4
+18,29.7,0.7,18.0,13.0,0.8,Estudiante,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,2
+45,12.9,9.3,29.0,13.0,2.5,Estudiante,Doctorado,Multijugador en linea,Relajarme,Juego por diversion,3
+15,35.1,2.5,16.0,33.0,3.8,Estudiante,Preparatoria,Multijugador presencial,Diversion,Juego por diversion,3
+25,21.7,1.3,18.0,31.0,1.7,Estudiante,Licenciatura,Con amigos en linea,Relajarme,Juego por diversion,2
+20,5.0,1.3,26.0,10.0,0.4,Empleado,Preparatoria,Multijugador presencial,Relajarme,Gano un poco,3
+23,32.5,0.4,10.0,34.0,5.3,Estudiante,Preparatoria,Con amigos en linea,Relajarme,Gano un poco,3
+49,21.9,2.9,27.0,26.0,2.2,Estudiante,Maestria,Multijugador en linea,Competir,Juego por diversion,1
+33,20.7,7.6,13.0,13.0,2.1,Desempleado,Preparatoria,Multijugador en linea,Competir,Juego por diversion,4
+17,30.0,1.0,14.0,40.0,2.8,Estudiante,Preparatoria,Multijugador en linea,Competir,Gano un poco,3
+51,14.1,0.0,20.0,39.0,3.0,Empleado,Preparatoria,Multijugador en linea,Relajarme,Juego por diversion,4
+45,58.2,3.1,24.0,21.0,2.5,Estudiante,Doctorado,Multijugador en linea,Relajarme,Juego por diversion,3
+18,13.6,0.0,25.0,14.0,2.7,Desempleado,Preparatoria,Multijugador en linea,Competir,Juego por diversion,1
+20,19.5,2.3,5.0,29.0,3.4,Empleado,Licenciatura,Un jugador,Competir,Juego por diversion,3
+15,21.0,8.4,19.0,17.0,0.7,Estudiante,Maestria,Multijugador presencial,Relajarme,Gano un poco,2
+43,43.8,5.7,23.0,12.0,2.0,Estudiante,Licenciatura,Multijugador presencial,Competir,Juego por diversion,1
+35,25.6,0.9,22.0,6.0,3.6,Empleado,Preparatoria,Multijugador presencial,Competir,Juego por diversion,1
+50,9.5,10.6,22.0,2.0,1.4,Estudiante,Maestria,Multijugador en linea,Mejorar habilidad,Juego por diversion,1
+16,33.6,2.1,19.0,26.0,4.1,Empleado,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,3
+22,18.6,7.2,28.0,35.0,2.8,Estudiante,Licenciatura,Multijugador en linea,Diversion,Juego por diversion,2
+34,19.9,2.3,19.0,8.0,3.3,Desempleado,Preparatoria,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+53,12.5,0.3,18.0,20.0,3.6,Empleado,Licenciatura,Un jugador,Diversion,Gano un poco,2
+50,36.6,1.3,30.0,30.0,3.2,Desempleado,Preparatoria,Multijugador en linea,Relajarme,Juego por diversion,2
+21,26.8,2.1,22.0,38.0,2.8,Desempleado,Preparatoria,Con amigos en linea,Competir,Gano un poco,2
+24,14.2,5.6,28.0,5.0,2.4,Empleado,Licenciatura,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+28,17.3,3.3,22.0,9.0,2.7,Estudiante,Maestria,Multijugador presencial,Socializar,Juego por diversion,2
+31,32.8,5.8,23.0,6.0,3.2,Empleado,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,2
+27,4.4,1.5,25.0,7.0,3.5,Estudiante,Doctorado,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+14,33.4,9.2,5.0,33.0,1.3,Desempleado,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,3
+25,0.0,8.4,24.0,17.0,3.3,Empleado,Licenciatura,Con amigos en linea,Mejorar habilidad,Juego por diversion,2
+36,26.5,2.3,18.0,8.0,2.3,Desempleado,Preparatoria,Un jugador,Mejorar habilidad,Es mi sustento,2
+54,16.4,2.5,29.0,36.0,3.9,Empleado,Maestria,Multijugador presencial,Diversion,Gano un poco,2
+25,26.5,2.2,7.0,34.0,1.7,Estudiante,Preparatoria,Un jugador,Socializar,Juego por diversion,3
+26,19.2,0.0,18.0,17.0,5.3,Estudiante,Licenciatura,Un jugador,Diversion,Juego por diversion,2
+16,45.1,0.0,15.0,47.0,3.3,Estudiante,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,3
+50,17.2,2.2,32.0,5.0,3.5,Empleado,Maestria,Multijugador presencial,Competir,Juego por diversion,2
+33,13.6,1.2,32.0,17.0,5.1,Empleado,Licenciatura,Con amigos en linea,Diversion,Juego por diversion,1
+20,21.1,7.1,6.0,14.0,1.8,Estudiante,Maestria,Multijugador en linea,Mejorar habilidad,Juego por diversion,3
+23,8.5,2.8,23.0,8.0,3.2,Desempleado,Licenciatura,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+27,0.7,7.2,28.0,14.0,3.4,Empleado,Preparatoria,Un jugador,Relajarme,Juego por diversion,2
+46,13.9,4.7,27.0,19.0,2.3,Empleado,Maestria,Un jugador,Socializar,Gano un poco,1
+39,17.8,0.1,16.0,16.0,4.7,Estudiante,Preparatoria,Un jugador,Relajarme,Juego por diversion,2
+26,6.2,9.2,27.0,4.0,1.6,Estudiante,Licenciatura,Un jugador,Diversion,Juego por diversion,1
+43,24.6,6.0,13.0,29.0,3.1,Empleado,Doctorado,Un jugador,Diversion,Juego por diversion,3
+44,13.9,3.7,30.0,24.0,2.0,Estudiante,Licenciatura,Con amigos en linea,Mejorar habilidad,Es mi sustento,1
+50,33.2,9.7,29.0,15.0,3.5,Desempleado,Preparatoria,Con amigos en linea,Diversion,Juego por diversion,2
+47,26.7,0.0,13.0,24.0,2.9,Estudiante,Licenciatura,Con amigos en linea,Socializar,Juego por diversion,1
+46,0.0,6.4,14.0,8.0,2.7,Empleado,Maestria,Con amigos en linea,Mejorar habilidad,Juego por diversion,2
+31,20.7,7.7,31.0,13.0,1.5,Empleado,Licenciatura,Multijugador presencial,Competir,Gano un poco,1
+41,20.8,5.3,28.0,46.0,2.2,Estudiante,Maestria,Multijugador en linea,Diversion,Juego por diversion,2
+15,1.0,7.4,21.0,16.0,4.4,Estudiante,Licenciatura,Un jugador,Diversion,Juego por diversion,4
+54,27.9,0.5,26.0,10.0,3.3,Empleado,Licenciatura,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+36,1.9,3.4,10.0,19.0,4.3,Desempleado,Doctorado,Con amigos en linea,Mejorar habilidad,Juego por diversion,2
+39,14.6,4.3,24.0,23.0,4.3,Empleado,Preparatoria,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+34,14.4,2.6,16.0,17.0,2.0,Estudiante,Preparatoria,Multijugador presencial,Mejorar habilidad,Juego por diversion,3
+53,38.3,8.8,21.0,6.0,3.9,Empleado,Licenciatura,Un jugador,Socializar,Juego por diversion,2
+47,7.6,0.5,26.0,49.0,1.1,Estudiante,Preparatoria,Multijugador en linea,Mejorar habilidad,Gano un poco,2
+40,27.0,6.5,18.0,32.0,2.9,Empleado,Preparatoria,Con amigos en linea,Socializar,Juego por diversion,2
+28,18.1,3.0,25.0,24.0,3.8,Estudiante,Preparatoria,Multijugador presencial,Competir,Juego por diversion,2
+38,18.4,4.8,14.0,10.0,4.2,Estudiante,Doctorado,Multijugador presencial,Diversion,Juego por diversion,2
+19,1.6,3.5,20.0,33.0,2.9,Empleado,Doctorado,Un jugador,Competir,Juego por diversion,4
+38,56.8,1.5,24.0,22.0,0.5,Empleado,Licenciatura,Multijugador presencial,Relajarme,Juego por diversion,2
+17,0.0,6.4,21.0,35.0,2.2,Estudiante,Licenciatura,Multijugador presencial,Competir,Juego por diversion,2
+48,13.3,0.0,17.0,20.0,2.7,Empleado,Preparatoria,Un jugador,Socializar,Gano un poco,2
+51,34.0,3.1,22.0,16.0,3.5,Desempleado,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,1
+20,15.9,5.9,16.0,21.0,2.4,Desempleado,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,3
+53,23.0,0.9,23.0,19.0,2.7,Empleado,Preparatoria,Multijugador en linea,Diversion,Juego por diversion,3
+54,10.7,4.1,19.0,7.0,2.4,Empleado,Preparatoria,Un jugador,Diversion,Juego por diversion,1
+39,27.3,2.7,29.0,15.0,2.7,Desempleado,Preparatoria,Multijugador en linea,Diversion,Juego por diversion,2
+21,26.4,0.0,23.0,0.0,0.8,Estudiante,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,1
+34,26.6,3.4,26.0,27.0,4.2,Estudiante,Preparatoria,Multijugador en linea,Mejorar habilidad,Juego por diversion,1
+28,12.3,5.7,17.0,7.0,2.1,Estudiante,Licenciatura,Multijugador presencial,Socializar,Juego por diversion,2
+52,12.7,2.4,29.0,0.0,5.2,Desempleado,Licenciatura,Multijugador en linea,Diversion,Juego por diversion,1
+36,13.8,7.2,25.0,7.0,0.8,Empleado,Licenciatura,Con amigos en linea,Competir,Juego por diversion,1
+49,0.0,0.0,30.0,18.0,3.1,Estudiante,Licenciatura,Multijugador presencial,Competir,Juego por diversion,2
+19,13.4,2.9,20.0,24.0,1.7,Estudiante,Preparatoria,Con amigos en linea,Competir,Gano un poco,1
+53,38.0,5.4,13.0,3.0,3.2,Empleado,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,2
+23,4.1,2.1,22.0,19.0,3.3,Estudiante,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,2
+18,29.9,3.1,16.0,17.0,1.4,Empleado,Preparatoria,Multijugador en linea,Relajarme,Juego por diversion,2
+42,18.4,1.2,21.0,8.0,0.6,Estudiante,Licenciatura,Multijugador en linea,Relajarme,Juego por diversion,1
+45,17.0,0.1,27.0,28.0,3.1,Estudiante,Preparatoria,Multijugador en linea,Competir,Juego por diversion,2
+39,0.7,5.0,20.0,35.0,2.3,Empleado,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,2
+32,33.9,11.8,24.0,21.0,0.0,Estudiante,Maestria,Con amigos en linea,Mejorar habilidad,Juego por diversion,2
+29,9.6,2.2,21.0,5.0,1.6,Estudiante,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,2
+24,20.5,3.9,19.0,16.0,0.9,Estudiante,Maestria,Multijugador en linea,Socializar,Juego por diversion,1
+32,26.9,5.6,25.0,32.0,2.5,Estudiante,Maestria,Multijugador presencial,Mejorar habilidad,Es mi sustento,2
+19,33.0,1.6,18.0,7.0,2.9,Empleado,Licenciatura,Con amigos en linea,Socializar,Juego por diversion,1
+14,22.7,7.0,30.0,24.0,3.0,Estudiante,Maestria,Multijugador en linea,Socializar,Juego por diversion,2
+25,20.9,3.2,19.0,13.0,3.3,Estudiante,Licenciatura,Un jugador,Competir,Juego por diversion,2
+45,16.9,8.2,20.0,27.0,4.0,Empleado,Preparatoria,Con amigos en linea,Competir,Juego por diversion,2
+39,35.1,3.6,7.0,29.0,2.5,Empleado,Maestria,Un jugador,Socializar,Juego por diversion,2
+17,2.7,0.0,10.0,21.0,3.9,Estudiante,Licenciatura,Un jugador,Diversion,Juego por diversion,3
+46,15.9,5.6,21.0,28.0,2.3,Empleado,Licenciatura,Multijugador presencial,Relajarme,Juego por diversion,3
+51,15.0,0.0,19.0,21.0,2.7,Estudiante,Licenciatura,Con amigos en linea,Competir,Juego por diversion,2
+27,23.5,6.3,21.0,11.0,1.0,Estudiante,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,1
+19,21.9,0.0,27.0,25.0,3.1,Desempleado,Preparatoria,Un jugador,Diversion,Juego por diversion,2
+38,25.6,0.0,8.0,25.0,3.9,Estudiante,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,4
+21,10.2,0.4,23.0,27.0,0.7,Empleado,Licenciatura,Multijugador en linea,Diversion,Juego por diversion,4
+50,13.1,6.1,8.0,18.0,2.7,Estudiante,Licenciatura,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+18,29.4,1.9,15.0,16.0,2.3,Estudiante,Maestria,Un jugador,Socializar,Juego por diversion,3
+15,42.2,7.5,18.0,6.0,3.9,Estudiante,Licenciatura,Con amigos en linea,Socializar,Juego por diversion,3
+48,17.5,5.5,26.0,0.0,2.9,Empleado,Preparatoria,Un jugador,Socializar,Juego por diversion,2
+50,11.6,3.8,13.0,11.0,4.4,Estudiante,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,2
+29,28.4,4.4,27.0,0.0,5.0,Desempleado,Maestria,Un jugador,Diversion,Juego por diversion,1
+46,20.1,2.0,20.0,44.0,3.9,Estudiante,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,2
+28,0.0,3.0,24.0,28.0,2.9,Empleado,Licenciatura,Con amigos en linea,Diversion,Juego por diversion,2
+40,34.7,0.3,26.0,12.0,3.6,Estudiante,Preparatoria,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+44,17.6,3.1,20.0,7.0,4.1,Empleado,Licenciatura,Un jugador,Diversion,Juego por diversion,2
+25,29.1,0.4,5.0,12.0,5.4,Estudiante,Maestria,Multijugador presencial,Relajarme,Juego por diversion,2
+43,10.8,5.0,26.0,27.0,3.3,Empleado,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,2
+14,0.0,3.6,19.0,22.0,2.4,Estudiante,Preparatoria,Un jugador,Diversion,Juego por diversion,2
+33,21.2,3.0,27.0,0.0,2.6,Empleado,Maestria,Un jugador,Diversion,Juego por diversion,1
+50,22.4,5.8,17.0,16.0,3.3,Estudiante,Maestria,Multijugador presencial,Socializar,Juego por diversion,1
+17,26.3,0.4,16.0,22.0,2.9,Empleado,Licenciatura,Multijugador presencial,Mejorar habilidad,Juego por diversion,3
+49,24.8,5.9,21.0,24.0,2.6,Estudiante,Maestria,Un jugador,Mejorar habilidad,Juego por diversion,2
+40,41.7,4.5,24.0,17.0,2.4,Estudiante,Maestria,Un jugador,Mejorar habilidad,Juego por diversion,2
+54,33.2,0.0,23.0,45.0,1.9,Empleado,Preparatoria,Con amigos en linea,Competir,Gano un poco,3
+26,26.1,2.9,20.0,35.0,1.8,Empleado,Licenciatura,Un jugador,Relajarme,Juego por diversion,3
+53,15.5,4.0,22.0,9.0,0.9,Estudiante,Licenciatura,Con amigos en linea,Mejorar habilidad,Juego por diversion,1
+17,5.9,0.9,13.0,29.0,4.8,Estudiante,Licenciatura,Con amigos en linea,Competir,Juego por diversion,3
+42,27.4,5.9,10.0,27.0,1.9,Empleado,Preparatoria,Multijugador en linea,Mejorar habilidad,Juego por diversion,3
+14,19.8,0.0,9.0,21.0,3.4,Empleado,Licenciatura,Multijugador en linea,Relajarme,Juego por diversion,3
+26,22.7,0.7,7.0,12.0,2.2,Estudiante,Preparatoria,Multijugador en linea,Competir,Gano un poco,3
+41,13.6,0.2,23.0,0.0,2.5,Estudiante,Licenciatura,Con amigos en linea,Mejorar habilidad,Gano un poco,2
+15,22.2,7.5,20.0,5.0,3.0,Estudiante,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,2
+46,23.5,4.5,24.0,37.0,3.9,Estudiante,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,3
+39,21.6,0.0,21.0,35.0,2.6,Desempleado,Licenciatura,Multijugador en linea,Socializar,Gano un poco,3
+28,19.0,8.1,32.0,0.0,3.1,Estudiante,Licenciatura,Multijugador en linea,Mejorar habilidad,Juego por diversion,1
+24,13.5,8.8,14.0,8.0,1.3,Estudiante,Maestria,Multijugador presencial,Competir,Juego por diversion,2
+38,28.3,7.3,15.0,24.0,1.9,Estudiante,Licenciatura,Un jugador,Mejorar habilidad,Gano un poco,3
+14,26.9,0.0,9.0,13.0,1.9,Desempleado,Preparatoria,Con amigos en linea,Relajarme,Gano un poco,3
+32,6.2,1.2,33.0,1.0,5.0,Empleado,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,1
+43,11.0,2.9,27.0,16.0,4.2,Estudiante,Preparatoria,Multijugador en linea,Diversion,Juego por diversion,1
+41,11.2,3.8,14.0,31.0,2.8,Estudiante,Preparatoria,Un jugador,Socializar,Juego por diversion,1
+33,12.6,5.0,9.0,22.0,2.7,Estudiante,Doctorado,Un jugador,Socializar,Juego por diversion,2
+48,12.1,3.1,6.0,23.0,4.0,Estudiante,Preparatoria,Multijugador presencial,Mejorar habilidad,Juego por diversion,3
+42,7.7,5.7,16.0,27.0,2.2,Estudiante,Licenciatura,Un jugador,Mejorar habilidad,Gano un poco,2
+41,0.0,3.4,31.0,19.0,0.8,Estudiante,Licenciatura,Un jugador,Diversion,Juego por diversion,2
+35,34.4,0.0,28.0,39.0,4.0,Estudiante,Maestria,Un jugador,Competir,Juego por diversion,3
+21,11.3,2.4,19.0,18.0,4.9,Empleado,Maestria,Con amigos en linea,Relajarme,Juego por diversion,2
+42,17.4,0.0,13.0,0.0,5.1,Estudiante,Licenciatura,Con amigos en linea,Socializar,Juego por diversion,2
+44,34.9,1.4,28.0,21.0,2.9,Estudiante,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,3
+37,26.6,5.5,20.0,26.0,2.5,Empleado,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,2
+29,35.8,6.8,28.0,32.0,2.5,Empleado,Preparatoria,Multijugador en linea,Competir,Gano un poco,2
+35,10.9,5.4,22.0,14.0,2.4,Empleado,Doctorado,Un jugador,Competir,Es mi sustento,1
+26,21.4,0.0,22.0,23.0,1.5,Estudiante,Licenciatura,Un jugador,Relajarme,Juego por diversion,2
+44,33.0,0.3,22.0,15.0,5.5,Estudiante,Licenciatura,Un jugador,Competir,Juego por diversion,3
+38,18.8,4.8,16.0,10.0,3.1,Estudiante,Preparatoria,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+29,11.5,6.0,25.0,20.0,1.9,Estudiante,Licenciatura,Multijugador en linea,Competir,Juego por diversion,3
+48,25.3,0.0,20.0,27.0,0.6,Empleado,Licenciatura,Multijugador en linea,Relajarme,Es mi sustento,2
+34,35.9,0.0,12.0,24.0,3.8,Estudiante,Preparatoria,Multijugador presencial,Competir,Gano un poco,3
+43,1.0,2.1,31.0,33.0,0.9,Estudiante,Preparatoria,Un jugador,Competir,Juego por diversion,2
+36,31.2,3.5,24.0,16.0,4.2,Empleado,Preparatoria,Multijugador en linea,Diversion,Juego por diversion,1
+42,27.2,4.1,14.0,5.0,3.4,Estudiante,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,3
+20,7.2,0.8,28.0,31.0,2.4,Desempleado,Preparatoria,Con amigos en linea,Competir,Juego por diversion,1
+40,13.8,7.2,18.0,21.0,3.5,Estudiante,Licenciatura,Multijugador en linea,Competir,Juego por diversion,2
+19,25.6,0.0,21.0,11.0,3.7,Empleado,Maestria,Multijugador presencial,Competir,Juego por diversion,2
+50,0.0,3.3,23.0,31.0,5.5,Estudiante,Maestria,Con amigos en linea,Competir,Juego por diversion,2
+16,17.6,4.3,23.0,36.0,5.6,Estudiante,Maestria,Con amigos en linea,Competir,Juego por diversion,1
+26,22.1,5.2,20.0,23.0,3.1,Empleado,Preparatoria,Un jugador,Competir,Juego por diversion,2
+34,15.4,3.0,11.0,0.0,5.2,Empleado,Licenciatura,Con amigos en linea,Mejorar habilidad,Juego por diversion,4
+48,16.2,6.2,18.0,32.0,3.3,Estudiante,Licenciatura,Un jugador,Competir,Gano un poco,2
+22,0.0,3.2,20.0,17.0,5.5,Desempleado,Preparatoria,Con amigos en linea,Mejorar habilidad,Juego por diversion,2
+31,1.0,0.0,25.0,33.0,3.2,Estudiante,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,2
+17,14.8,1.9,15.0,0.0,4.4,Empleado,Licenciatura,Un jugador,Socializar,Gano un poco,1
+42,50.0,3.4,18.0,38.0,3.8,Estudiante,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,4
+34,20.5,0.0,30.0,27.0,3.7,Estudiante,Preparatoria,Multijugador presencial,Relajarme,Juego por diversion,1
+42,24.9,8.7,13.0,3.0,2.5,Estudiante,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,3
+29,21.0,0.0,20.0,38.0,4.6,Estudiante,Licenciatura,Multijugador en linea,Mejorar habilidad,Juego por diversion,3
+17,28.3,3.0,13.0,19.0,4.1,Estudiante,Licenciatura,Con amigos en linea,Relajarme,Juego por diversion,2
+46,6.2,6.2,13.0,7.0,2.8,Estudiante,Licenciatura,Multijugador presencial,Mejorar habilidad,Juego por diversion,1
+50,47.4,0.5,14.0,38.0,4.0,Empleado,Preparatoria,Multijugador presencial,Diversion,Juego por diversion,3
+44,13.1,6.4,25.0,40.0,3.8,Estudiante,Preparatoria,Un jugador,Competir,Juego por diversion,3
+39,1.1,0.0,23.0,7.0,5.1,Estudiante,Preparatoria,Multijugador en linea,Diversion,Juego por diversion,2
+30,15.6,0.0,19.0,7.0,2.2,Desempleado,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,1
+28,22.6,2.8,22.0,27.0,2.3,Empleado,Licenciatura,Multijugador en linea,Mejorar habilidad,Juego por diversion,3
+37,22.4,4.1,25.0,23.0,3.1,Estudiante,Licenciatura,Multijugador presencial,Socializar,Juego por diversion,2
+21,3.7,6.1,18.0,43.0,3.2,Estudiante,Licenciatura,Con amigos en linea,Competir,Juego por diversion,3
+27,25.0,5.8,22.0,29.0,2.7,Estudiante,Maestria,Multijugador presencial,Mejorar habilidad,Gano un poco,2
+39,15.9,6.3,22.0,18.0,3.8,Estudiante,Licenciatura,Con amigos en linea,Relajarme,Juego por diversion,1
+33,40.1,6.7,26.0,47.0,4.2,Empleado,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,3
+23,17.5,4.6,22.0,12.0,2.9,Estudiante,Preparatoria,Multijugador presencial,Diversion,Juego por diversion,2
+37,40.2,4.3,19.0,36.0,2.4,Desempleado,Preparatoria,Con amigos en linea,Diversion,Juego por diversion,2
+50,2.2,0.6,15.0,32.0,3.4,Desempleado,Licenciatura,Un jugador,Competir,Juego por diversion,3
+35,22.8,0.0,35.0,9.0,3.3,Estudiante,Maestria,Un jugador,Socializar,Juego por diversion,2
+28,42.2,6.3,16.0,3.0,1.1,Desempleado,Preparatoria,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+24,34.5,8.2,17.0,0.0,2.7,Estudiante,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,1
+28,30.4,1.5,17.0,23.0,2.9,Estudiante,Maestria,Multijugador en linea,Relajarme,Juego por diversion,2
+30,22.8,2.1,11.0,24.0,4.7,Estudiante,Preparatoria,Con amigos en linea,Socializar,Juego por diversion,1
+24,28.3,3.7,21.0,50.0,2.7,Desempleado,Preparatoria,Multijugador presencial,Mejorar habilidad,Juego por diversion,3
+14,33.0,0.0,19.0,14.0,0.9,Empleado,Licenciatura,Multijugador presencial,Diversion,Juego por diversion,1
+21,3.9,1.2,13.0,18.0,1.9,Estudiante,Maestria,Un jugador,Diversion,Juego por diversion,2
+27,30.1,1.8,22.0,23.0,2.7,Empleado,Preparatoria,Un jugador,Mejorar habilidad,Juego por diversion,3
+50,30.3,0.0,25.0,20.0,3.7,Empleado,Preparatoria,Un jugador,Diversion,Juego por diversion,2
+21,11.9,5.9,15.0,23.0,4.1,Estudiante,Licenciatura,Multijugador en linea,Relajarme,Juego por diversion,2
+18,29.7,1.0,20.0,20.0,3.1,Estudiante,Licenciatura,Con amigos en linea,Competir,Juego por diversion,3
+41,10.1,3.0,8.0,16.0,1.9,Empleado,Licenciatura,Multijugador presencial,Socializar,Juego por diversion,2
+50,14.1,0.0,12.0,22.0,2.4,Empleado,Preparatoria,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+45,28.8,0.0,25.0,13.0,1.6,Estudiante,Maestria,Un jugador,Relajarme,Juego por diversion,2
+41,0.0,1.7,14.0,3.0,4.2,Estudiante,Preparatoria,Un jugador,Relajarme,Es mi sustento,1
+42,11.4,1.9,18.0,27.0,3.4,Empleado,Preparatoria,Con amigos en linea,Mejorar habilidad,Juego por diversion,2
+46,3.7,1.3,18.0,14.0,2.9,Empleado,Maestria,Multijugador en linea,Socializar,Juego por diversion,2
+25,12.4,1.9,17.0,9.0,5.1,Estudiante,Preparatoria,Multijugador en linea,Mejorar habilidad,Juego por diversion,1
+32,4.7,2.3,19.0,32.0,2.7,Empleado,Licenciatura,Un jugador,Relajarme,Juego por diversion,2
+35,12.6,0.1,18.0,15.0,2.4,Estudiante,Preparatoria,Un jugador,Socializar,Juego por diversion,2
+35,19.5,2.3,20.0,10.0,1.4,Estudiante,Preparatoria,Un jugador,Socializar,Juego por diversion,2
+43,25.7,5.7,19.0,25.0,2.4,Empleado,Licenciatura,Un jugador,Diversion,Juego por diversion,2
+21,25.7,7.5,19.0,8.0,3.2,Empleado,Licenciatura,Multijugador presencial,Competir,Juego por diversion,2
+27,36.2,7.9,12.0,5.0,2.2,Empleado,Preparatoria,Multijugador presencial,Relajarme,Juego por diversion,3
+32,33.4,0.0,12.0,20.0,4.3,Desempleado,Preparatoria,Con amigos en linea,Mejorar habilidad,Gano un poco,2
+33,32.6,2.7,25.0,31.0,5.5,Estudiante,Licenciatura,Con amigos en linea,Socializar,Juego por diversion,2
+19,14.9,1.6,31.0,17.0,2.1,Estudiante,Preparatoria,Multijugador en linea,Diversion,Juego por diversion,1
+16,20.3,1.5,11.0,17.0,4.1,Empleado,Maestria,Un jugador,Mejorar habilidad,Juego por diversion,2
+24,28.6,7.6,18.0,40.0,2.5,Estudiante,Licenciatura,Un jugador,Socializar,Juego por diversion,4
+24,0.6,1.7,18.0,20.0,3.7,Desempleado,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,1
+45,13.5,1.1,14.0,18.0,5.1,Desempleado,Preparatoria,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+40,17.7,0.1,21.0,29.0,2.8,Estudiante,Preparatoria,Multijugador presencial,Competir,Juego por diversion,2
+29,15.1,1.9,22.0,28.0,5.8,Estudiante,Preparatoria,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+42,20.3,0.6,28.0,0.0,3.7,Estudiante,Preparatoria,Multijugador en linea,Diversion,Gano un poco,1
+34,19.7,3.2,12.0,11.0,2.3,Estudiante,Maestria,Con amigos en linea,Relajarme,Juego por diversion,2
+50,40.1,2.0,22.0,42.0,2.7,Estudiante,Licenciatura,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+14,14.8,8.0,17.0,26.0,0.9,Estudiante,Preparatoria,Con amigos en linea,Relajarme,Gano un poco,4
+15,0.0,5.0,19.0,18.0,4.5,Estudiante,Preparatoria,Multijugador presencial,Competir,Juego por diversion,2
+46,3.3,0.0,20.0,44.0,0.9,Estudiante,Maestria,Multijugador en linea,Relajarme,Juego por diversion,2
+54,6.7,2.4,19.0,35.0,4.0,Empleado,Licenciatura,Multijugador presencial,Mejorar habilidad,Juego por diversion,3
+34,20.7,3.9,27.0,18.0,2.5,Estudiante,Licenciatura,Multijugador en linea,Competir,Juego por diversion,1
+16,30.5,5.3,19.0,32.0,4.7,Empleado,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,3
+14,25.3,0.0,24.0,23.0,2.5,Desempleado,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,2
+39,8.9,0.0,6.0,26.0,0.6,Desempleado,Maestria,Un jugador,Mejorar habilidad,Juego por diversion,3
+19,26.2,1.5,19.0,16.0,2.7,Estudiante,Preparatoria,Con amigos en linea,Competir,Juego por diversion,3
+34,41.5,5.3,26.0,0.0,2.1,Empleado,Preparatoria,Con amigos en linea,Competir,Juego por diversion,2
+51,15.7,4.4,14.0,5.0,4.0,Empleado,Maestria,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+20,17.4,4.2,15.0,0.0,4.1,Estudiante,Preparatoria,Con amigos en linea,Socializar,Juego por diversion,1
+23,29.8,0.0,24.0,7.0,1.4,Desempleado,Preparatoria,Un jugador,Socializar,Juego por diversion,1
+15,25.9,0.0,23.0,4.0,5.3,Empleado,Licenciatura,Multijugador presencial,Relajarme,Juego por diversion,2
+16,6.7,0.7,29.0,11.0,3.2,Estudiante,Preparatoria,Multijugador presencial,Diversion,Juego por diversion,1
+44,0.0,2.3,21.0,28.0,4.1,Estudiante,Preparatoria,Con amigos en linea,Socializar,Juego por diversion,2
+23,1.8,2.0,19.0,31.0,3.9,Empleado,Licenciatura,Con amigos en linea,Socializar,Juego por diversion,3
+29,35.0,3.2,11.0,19.0,2.1,Estudiante,Licenciatura,Un jugador,Mejorar habilidad,Juego por diversion,2
+25,2.3,0.0,30.0,1.0,3.0,Estudiante,Preparatoria,Multijugador en linea,Diversion,Juego por diversion,1
+40,20.4,9.2,13.0,43.0,5.6,Empleado,Licenciatura,Multijugador en linea,Diversion,Gano un poco,3
+34,18.4,0.0,11.0,17.0,3.4,Empleado,Preparatoria,Multijugador en linea,Relajarme,Juego por diversion,2
+54,11.5,5.2,18.0,15.0,4.7,Empleado,Preparatoria,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+22,3.6,6.5,26.0,7.0,2.8,Empleado,Doctorado,Multijugador en linea,Socializar,Juego por diversion,3
+28,13.4,0.0,15.0,22.0,3.2,Empleado,Doctorado,Un jugador,Relajarme,Juego por diversion,2
+41,12.1,1.4,19.0,1.0,3.9,Estudiante,Preparatoria,Multijugador en linea,Competir,Juego por diversion,2
+32,34.7,2.8,7.0,14.0,3.5,Estudiante,Licenciatura,Multijugador presencial,Socializar,Gano un poco,2
+34,21.2,1.1,22.0,29.0,3.8,Estudiante,Preparatoria,Con amigos en linea,Mejorar habilidad,Juego por diversion,3
+25,51.0,0.0,23.0,6.0,4.9,Desempleado,Licenciatura,Multijugador en linea,Competir,Juego por diversion,2
+20,34.1,2.9,28.0,0.0,1.4,Estudiante,Preparatoria,Con amigos en linea,Socializar,Juego por diversion,2
+20,24.2,1.5,23.0,29.0,1.0,Empleado,Preparatoria,Un jugador,Relajarme,Juego por diversion,2
+18,0.9,0.7,15.0,34.0,3.2,Estudiante,Preparatoria,Multijugador en linea,Diversion,Juego por diversion,2
+44,18.6,3.3,28.0,3.0,3.8,Estudiante,Maestria,Un jugador,Competir,Juego por diversion,3
+32,11.5,3.7,6.0,38.0,3.0,Desempleado,Preparatoria,Un jugador,Competir,Juego por diversion,3
+24,21.2,1.7,22.0,15.0,3.0,Estudiante,Licenciatura,Multijugador en linea,Relajarme,Juego por diversion,1
+21,11.3,0.8,23.0,5.0,3.0,Estudiante,Licenciatura,Con amigos en linea,Mejorar habilidad,Juego por diversion,2
+35,12.1,2.9,28.0,1.0,4.8,Empleado,Licenciatura,Multijugador presencial,Competir,Juego por diversion,1
+24,41.7,0.0,23.0,36.0,3.2,Empleado,Licenciatura,Con amigos en linea,Competir,Juego por diversion,2
+21,18.4,0.0,22.0,27.0,3.1,Empleado,Preparatoria,Con amigos en linea,Mejorar habilidad,Juego por diversion,2
+26,21.7,3.7,12.0,0.0,3.8,Estudiante,Preparatoria,Un jugador,Socializar,Gano un poco,2
+14,14.1,3.3,17.0,14.0,2.4,Empleado,Preparatoria,Multijugador en linea,Mejorar habilidad,Juego por diversion,3
+15,21.9,3.9,25.0,13.0,2.7,Empleado,Preparatoria,Multijugador en linea,Competir,Juego por diversion,2
+24,41.6,0.0,15.0,35.0,2.4,Estudiante,Maestria,Multijugador en linea,Socializar,Juego por diversion,3
+47,5.5,2.6,19.0,18.0,3.7,Empleado,Licenciatura,Un jugador,Relajarme,Juego por diversion,2
+18,20.2,0.0,16.0,44.0,2.1,Estudiante,Licenciatura,Un jugador,Socializar,Juego por diversion,2
+40,14.9,1.8,20.0,27.0,1.4,Empleado,Preparatoria,Con amigos en linea,Competir,Juego por diversion,2
+16,28.5,3.3,24.0,30.0,2.4,Desempleado,Doctorado,Un jugador,Diversion,Juego por diversion,2
+18,2.7,0.0,22.0,36.0,1.1,Empleado,Maestria,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+42,37.6,1.6,30.0,10.0,1.8,Empleado,Licenciatura,Multijugador en linea,Competir,Gano un poco,1
+16,27.1,0.2,16.0,29.0,2.6,Estudiante,Licenciatura,Un jugador,Mejorar habilidad,Juego por diversion,3
+36,23.2,2.4,18.0,15.0,3.2,Estudiante,Licenciatura,Multijugador presencial,Diversion,Juego por diversion,1
+25,7.7,7.3,20.0,1.0,0.3,Estudiante,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,1
+18,21.4,1.2,24.0,23.0,2.2,Desempleado,Preparatoria,Un jugador,Relajarme,Juego por diversion,3
+39,41.2,3.5,19.0,28.0,1.7,Desempleado,Licenciatura,Un jugador,Socializar,Juego por diversion,2
+48,28.4,5.5,15.0,30.0,5.2,Estudiante,Maestria,Multijugador en linea,Relajarme,Juego por diversion,2
+45,10.1,0.0,16.0,16.0,3.9,Estudiante,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,2
+47,8.6,1.2,17.0,9.0,3.0,Estudiante,Preparatoria,Con amigos en linea,Socializar,Juego por diversion,1
+50,4.2,3.4,16.0,31.0,3.5,Empleado,Licenciatura,Multijugador presencial,Competir,Juego por diversion,3
+30,35.1,2.0,20.0,13.0,0.8,Estudiante,Licenciatura,Un jugador,Mejorar habilidad,Juego por diversion,1
+37,9.8,3.1,15.0,27.0,2.2,Estudiante,Licenciatura,Un jugador,Mejorar habilidad,Juego por diversion,2
+32,12.8,3.3,11.0,1.0,2.4,Empleado,Preparatoria,Multijugador en linea,Competir,Juego por diversion,2
+49,23.0,1.3,13.0,28.0,0.9,Estudiante,Licenciatura,Multijugador en linea,Relajarme,Juego por diversion,2
+30,0.0,0.0,23.0,23.0,5.6,Empleado,Licenciatura,Multijugador en linea,Diversion,Juego por diversion,2
+37,18.1,0.0,19.0,16.0,4.0,Empleado,Licenciatura,Con amigos en linea,Relajarme,Es mi sustento,3
+18,31.1,0.3,28.0,19.0,3.5,Empleado,Licenciatura,Multijugador presencial,Socializar,Juego por diversion,2
+30,37.8,3.8,18.0,20.0,2.2,Estudiante,Doctorado,Con amigos en linea,Competir,Juego por diversion,2
+49,26.9,5.6,25.0,22.0,3.5,Estudiante,Preparatoria,Multijugador presencial,Diversion,Juego por diversion,2
+27,11.4,1.4,22.0,18.0,3.9,Estudiante,Preparatoria,Con amigos en linea,Socializar,Juego por diversion,3
+22,26.5,0.0,18.0,26.0,3.0,Empleado,Licenciatura,Con amigos en linea,Relajarme,Juego por diversion,2
+31,19.1,0.0,17.0,18.0,3.1,Empleado,Licenciatura,Multijugador presencial,Socializar,Juego por diversion,3
+51,20.0,1.9,15.0,0.0,5.2,Estudiante,Licenciatura,Con amigos en linea,Competir,Juego por diversion,2
+27,28.3,0.0,25.0,0.0,3.0,Empleado,Doctorado,Multijugador presencial,Relajarme,Juego por diversion,1
+42,1.5,1.2,22.0,34.0,3.7,Estudiante,Licenciatura,Multijugador presencial,Diversion,Gano un poco,2
+54,4.5,2.3,21.0,4.0,4.3,Estudiante,Preparatoria,Multijugador presencial,Relajarme,Gano un poco,1
+33,43.5,6.3,24.0,0.0,1.1,Empleado,Licenciatura,Con amigos en linea,Competir,Juego por diversion,2
+50,7.0,5.6,15.0,44.0,1.4,Estudiante,Licenciatura,Un jugador,Mejorar habilidad,Juego por diversion,2
+48,20.0,0.0,27.0,41.0,0.3,Estudiante,Licenciatura,Un jugador,Socializar,Juego por diversion,2
+34,0.0,2.1,28.0,47.0,3.3,Estudiante,Licenciatura,Multijugador en linea,Mejorar habilidad,Juego por diversion,3
+18,21.2,0.0,20.0,3.0,3.3,Estudiante,Preparatoria,Multijugador en linea,Diversion,Juego por diversion,2
+18,24.9,5.2,25.0,36.0,2.2,Estudiante,Maestria,Multijugador en linea,Relajarme,Juego por diversion,2
+21,1.6,4.7,11.0,21.0,3.4,Empleado,Doctorado,Un jugador,Mejorar habilidad,Juego por diversion,2
+23,36.1,0.0,17.0,34.0,4.8,Empleado,Maestria,Un jugador,Mejorar habilidad,Gano un poco,2
+41,17.0,4.4,15.0,16.0,0.8,Estudiante,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,2
+52,44.8,3.2,16.0,13.0,1.0,Estudiante,Maestria,Multijugador presencial,Relajarme,Juego por diversion,1
+27,8.3,4.4,28.0,19.0,2.3,Empleado,Preparatoria,Multijugador en linea,Diversion,Juego por diversion,2
+33,24.6,8.4,22.0,42.0,4.0,Empleado,Preparatoria,Un jugador,Diversion,Juego por diversion,3
+50,38.7,5.0,26.0,42.0,3.0,Estudiante,Preparatoria,Multijugador presencial,Socializar,Es mi sustento,4
+39,35.6,3.9,19.0,20.0,3.9,Empleado,Licenciatura,Con amigos en linea,Competir,Juego por diversion,2
+35,37.8,0.2,19.0,30.0,1.3,Empleado,Licenciatura,Multijugador en linea,Competir,Juego por diversion,2
+42,31.4,1.5,20.0,29.0,2.7,Estudiante,Maestria,Multijugador presencial,Relajarme,Juego por diversion,3
+21,21.8,3.1,22.0,43.0,2.5,Empleado,Preparatoria,Multijugador en linea,Socializar,Juego por diversion,2
+29,30.6,5.9,7.0,44.0,2.6,Estudiante,Licenciatura,Con amigos en linea,Diversion,Juego por diversion,3
+36,25.9,0.0,15.0,19.0,1.7,Estudiante,Preparatoria,Un jugador,Socializar,Juego por diversion,3
+28,13.5,0.0,8.0,28.0,2.6,Desempleado,Preparatoria,Multijugador en linea,Diversion,Juego por diversion,3
+34,27.8,6.6,16.0,17.0,5.0,Estudiante,Maestria,Con amigos en linea,Diversion,Gano un poco,3
+41,33.4,6.5,31.0,13.0,3.6,Estudiante,Maestria,Multijugador en linea,Mejorar habilidad,Juego por diversion,1
+44,30.1,0.0,20.0,22.0,3.0,Empleado,Preparatoria,Con amigos en linea,Relajarme,Juego por diversion,2
+18,0.0,8.5,9.0,25.0,2.5,Empleado,Maestria,Multijugador en linea,Competir,Juego por diversion,2
+19,20.2,3.9,24.0,6.0,3.7,Estudiante,Licenciatura,Un jugador,Diversion,Juego por diversion,2
+54,20.3,4.7,16.0,19.0,0.9,Empleado,Licenciatura,Multijugador presencial,Socializar,Gano un poco,2
+28,23.6,0.0,13.0,13.0,3.0,Empleado,Licenciatura,Con amigos en linea,Socializar,Gano un poco,2
+32,29.4,6.2,23.0,13.0,2.5,Estudiante,Licenciatura,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+29,33.3,0.9,17.0,6.0,4.7,Empleado,Licenciatura,Con amigos en linea,Mejorar habilidad,Juego por diversion,3
+29,33.3,0.0,13.0,29.0,3.9,Estudiante,Maestria,Multijugador presencial,Competir,Juego por diversion,3
+48,24.6,1.8,26.0,30.0,4.8,Empleado,Preparatoria,Con amigos en linea,Socializar,Juego por diversion,1
+36,36.5,6.1,30.0,28.0,2.1,Estudiante,Licenciatura,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+41,11.2,6.0,19.0,14.0,2.2,Empleado,Doctorado,Un jugador,Socializar,Juego por diversion,2
+49,24.9,5.6,25.0,29.0,2.3,Empleado,Licenciatura,Multijugador presencial,Socializar,Juego por diversion,3
+51,42.0,1.2,14.0,17.0,1.0,Estudiante,Maestria,Multijugador presencial,Mejorar habilidad,Gano un poco,2
+53,26.8,4.7,19.0,27.0,3.3,Empleado,Licenciatura,Multijugador en linea,Competir,Juego por diversion,1
+18,10.5,1.2,13.0,33.0,1.8,Empleado,Doctorado,Multijugador en linea,Diversion,Juego por diversion,2
+27,22.0,4.8,19.0,6.0,4.0,Empleado,Preparatoria,Un jugador,Mejorar habilidad,Gano un poco,2
+22,19.3,1.2,22.0,43.0,3.5,Empleado,Preparatoria,Un jugador,Relajarme,Juego por diversion,3
+51,7.7,0.2,13.0,30.0,6.4,Empleado,Licenciatura,Multijugador presencial,Diversion,Gano un poco,2
+49,21.1,1.2,14.0,18.0,2.0,Estudiante,Preparatoria,Multijugador presencial,Socializar,Juego por diversion,2
+25,27.8,2.0,15.0,28.0,3.1,Empleado,Maestria,Multijugador presencial,Socializar,Juego por diversion,3
+16,7.7,0.7,12.0,22.0,2.2,Estudiante,Licenciatura,Multijugador presencial,Competir,Juego por diversion,2
+44,27.9,3.0,28.0,8.0,3.5,Empleado,Preparatoria,Multijugador presencial,Diversion,Es mi sustento,1
+21,0.0,1.8,29.0,19.0,1.0,Empleado,Maestria,Un jugador,Mejorar habilidad,Juego por diversion,2
+32,12.1,0.0,17.0,22.0,2.2,Estudiante,Preparatoria,Multijugador en linea,Relajarme,Juego por diversion,2
+33,24.4,4.6,21.0,33.0,3.1,Estudiante,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,3
+23,24.8,2.0,27.0,27.0,3.0,Estudiante,Licenciatura,Con amigos en linea,Socializar,Juego por diversion,2
+42,31.0,1.6,20.0,10.0,1.4,Estudiante,Maestria,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+36,17.1,0.0,26.0,41.0,2.0,Empleado,Licenciatura,Multijugador en linea,Mejorar habilidad,Juego por diversion,2
+25,13.1,6.1,5.0,15.0,2.7,Empleado,Preparatoria,Multijugador presencial,Mejorar habilidad,Juego por diversion,2
+39,0.0,3.3,10.0,3.0,0.7,Empleado,Licenciatura,Multijugador en linea,Socializar,Gano un poco,2
+52,12.0,0.0,19.0,3.0,3.9,Estudiante,Preparatoria,Con amigos en linea,Diversion,Juego por diversion,2
+51,7.7,4.1,22.0,11.0,4.8,Estudiante,Maestria,Multijugador presencial,Socializar,Juego por diversion,3
+39,32.4,5.0,23.0,34.0,2.4,Empleado,Licenciatura,Multijugador presencial,Mejorar habilidad,Juego por diversion,3
+34,28.4,0.6,24.0,15.0,2.0,Estudiante,Preparatoria,Con amigos en linea,Competir,Juego por diversion,1
+23,22.8,1.7,18.0,20.0,3.3,Estudiante,Preparatoria,Un jugador,Relajarme,Juego por diversion,2
+43,33.4,1.8,23.0,11.0,2.6,Estudiante,Maestria,Un jugador,Mejorar habilidad,Juego por diversion,2
+42,39.3,6.0,21.0,4.0,3.9,Estudiante,Licenciatura,Con amigos en linea,Competir,Juego por diversion,1
+15,30.7,3.6,23.0,35.0,1.9,Estudiante,Licenciatura,Multijugador en linea,Diversion,Juego por diversion,2
+28,15.5,6.1,14.0,11.0,2.7,Empleado,Maestria,Con amigos en linea,Mejorar habilidad,Gano un poco,2
+29,11.4,5.3,19.0,12.0,2.7,Estudiante,Preparatoria,Con amigos en linea,Socializar,Juego por diversion,1
+37,31.4,2.0,18.0,38.0,3.8,Estudiante,Maestria,Multijugador presencial,Competir,Juego por diversion,3
+27,47.7,1.3,21.0,1.0,3.1,Estudiante,Preparatoria,Un jugador,Relajarme,Juego por diversion,2
+39,28.1,3.4,13.0,4.0,1.3,Empleado,Preparatoria,Con amigos en linea,Diversion,Gano un poco,2
+39,14.0,0.0,27.0,17.0,2.8,Estudiante,Preparatoria,Un jugador,Relajarme,Gano un poco,1
+31,27.6,4.3,21.0,20.0,2.3,Desempleado,Preparatoria,Multijugador presencial,Competir,Juego por diversion,3
+43,10.7,3.0,10.0,24.0,4.3,Estudiante,Preparatoria,Un jugador,Relajarme,Juego por diversion,2
+50,0.4,6.4,19.0,42.0,5.0,Estudiante,Doctorado,Un jugador,Relajarme,Juego por diversion,2
+28,24.4,3.6,17.0,26.0,3.4,Estudiante,Licenciatura,Un jugador,Diversion,Juego por diversion,2
+27,13.6,1.5,16.0,26.0,3.0,Estudiante,Preparatoria,Un jugador,Relajarme,Juego por diversion,2
+41,37.9,8.1,20.0,28.0,1.7,Estudiante,Preparatoria,Un jugador,Relajarme,Juego por diversion,3
+45,0.0,6.0,15.0,29.0,0.9,Estudiante,Maestria,Un jugador,Competir,Juego por diversion,2
+19,13.8,6.1,29.0,30.0,3.8,Estudiante,Licenciatura,Multijugador presencial,Socializar,Juego por diversion,2
+44,22.2,8.7,28.0,3.0,1.3,Estudiante,Preparatoria,Con amigos en linea,Competir,Juego por diversion,2
+18,15.7,4.8,23.0,22.0,1.7,Empleado,Licenciatura,Multijugador en linea,Socializar,Juego por diversion,2
+49,19.6,1.1,16.0,10.0,2.5,Desempleado,Preparatoria,Un jugador,Competir,Juego por diversion,2
