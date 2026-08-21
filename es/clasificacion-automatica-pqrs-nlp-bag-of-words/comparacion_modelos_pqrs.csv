@@ -1,0 +1,6 @@
+modelo,accuracy_cv
+LogisticRegression,0.30000000000000004
+SVC,0.20000000000000004
+RandomForestClassifier,0.2333333333333333
+KNeighborsClassifier,0.16666666666666666
+GaussianNB,0.26666666666666666
