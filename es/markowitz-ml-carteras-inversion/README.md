@@ -70,4 +70,4 @@ Cada una de las siguientes preguntas tiene su propio Explorador de decisiones in
 5. Para probar el pipeline con tu propia lista de activos, cambia la lista de tickers y el rango de fechas en la celda de descarga, y revisa cuántas filas sobreviven al cálculo de los indicadores técnicos antes de entrenar.
 
 ---
-*Made with ❤️ by FuzzyFrog.AI*
+*Made with 💚 by FuzzyFrog.AI*
