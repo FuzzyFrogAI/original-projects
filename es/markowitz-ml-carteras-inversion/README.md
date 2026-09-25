@@ -1,73 +1,78 @@
-# 🧪 Laboratorio: Optimización de Carteras con LSTM, CAPM y Markowitz - ATLAS FuzzyFrog.AI
+# 🧪 Laboratorio: Optimización de carteras con LSTM, CAPM y Markowitz - ATLAS FuzzyFrog.AI
 
-## Insignias
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.20-FF6F00.svg)](https://www.tensorflow.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![ATLAS FuzzyFrog.AI](https://img.shields.io/badge/ATLAS-FuzzyFrog.AI-00b76c.svg)](https://fuzzyfrog.ai/es/)
 
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras%20LSTM-FF6F00?logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-Preprocesamiento-F7931E?logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-Optimizaci%C3%B3n%20SLSQP-8CAAE6)
-![yfinance](https://img.shields.io/badge/yfinance-Datos%20abiertos-800080)
-![FuzzyFrog.AI](https://img.shields.io/badge/FuzzyFrog.AI-ATLAS-006a87)
-
-**Objetivo:** aprender a construir un pipeline completo de asignación de portafolio, desde la predicción de rendimientos esperados con un modelo de series de tiempo hasta la optimización de pesos, y a justificar cada decisión con criterio propio en vez de copiarla.
+**Aprende a no confiar en un modelo de Machine Learning hasta comprobar, fuera de muestra y contra la alternativa más simple, que de verdad mejora un portafolio de inversión.**
 
 ## Qué vas a aprender
 
-Vas a ver, con datos reales, cómo se conecta una predicción de series de tiempo con una decisión de asignación de portafolio, y por qué cada bisagra del pipeline se resolvió de una forma y no de otra. De paso, entras en contacto con tres piezas que reaparecen en muchos problemas distintos: cuándo un LSTM vale la pena frente a algo más simple, qué indicadores técnicos aportan señal sobre una serie de precios y qué mide en realidad el CAPM. La idea no es que memorices esta receta, sino que salgas pudiendo armar la tuya.
+Vas a practicar el criterio más importante de un proyecto cuantitativo: no confiar en un modelo hasta compararlo, fuera de muestra, contra la alternativa más simple que existe. En el camino tocas validación walk-forward con purga, CAPM como filtro por alfa, y por qué el objetivo del optimizador decide si tu pronóstico sirve o no.
 
-**Enlaces rápidos:** [Plataforma](https://fuzzyfrog.ai/es/) | [Artículo completo](https://fuzzyfrog.ai/es/ai-lab/proyectos/negocios/markowitz-ml-carteras-inversion/) | [Article in English](https://fuzzyfrog.ai/en/ai-lab/proyectos/business/markowitz-ml-portfolio-optimization/) | [Notebook en Colab](https://colab.research.google.com/drive/1mFF8xIFR8aaeIAxjeAHtza6P6Tj6Y4Kf?usp=sharing) | [Carpeta general de proyectos](https://github.com/FuzzyFrogAI/original-projects)
+## Enlaces rápidos
+
+[Plataforma](https://fuzzyfrog.ai/es/) | [Artículo completo](https://fuzzyfrog.ai/es/ai-lab/proyectos/negocios/markowitz-ml-carteras-inversion/) | [Todos los proyectos](https://fuzzyfrog.ai/es/ai-lab/proyectos/)
 
 ## Estructura del laboratorio
 
 ```
-markowitz-ml-carteras-inversion/
-├── markowitz-ml-carteras-inversion.ipynb   # Notebook ejecutable, extremo a extremo
-├── diagrama-solucion.drawio                 # Diagrama editable del pipeline (mismo que el del artículo)
-├── requirements.txt                         # Dependencias para correrlo fuera de Colab
-└── README.md                                # Este archivo
+ml-portfolio-optimization-lstm-markowitz/
+├── README.md                              ← este archivo
+├── markowitz_ml_carteras_inversion.ipynb  ← notebook completo: datos, features, LSTM/GRU/Ridge/GB, CAPM, Markowitz, backtest
+├── diagrama-solucion.svg                  ← diagrama del pipeline (fuente editable, mismo diseño que el artículo)
+└── requirements.txt                       ← dependencias con versión fija
 ```
-
-No hay carpeta `/data`: los precios se descargan en vivo desde yfinance dentro del propio notebook, así que no se distribuye ningún dataset ni sintético ni real junto con este repositorio.
-
-## Explora las decisiones alternativas
-
-Cada una de las siguientes preguntas tiene su propio Explorador de decisiones interactivo en el artículo, con el resultado de la opción elegida y de la alternativa. Estas mismas preguntas están replicadas en el notebook, en el punto exacto del pipeline donde se toma cada decisión, para que las pienses antes de ver la celda siguiente.
-
-1. **¿Solo precio de cierre o con indicadores técnicos?** → [Explorar esta decisión](https://fuzzyfrog.ai/es/ai-lab/proyectos/negocios/markowitz-ml-carteras-inversion/#explorador-lstm_indicadores)
-2. **¿Cuántas capas LSTM y cuántas unidades?** → [Explorar esta decisión](https://fuzzyfrog.ai/es/ai-lab/proyectos/negocios/markowitz-ml-carteras-inversion/#explorador-lstm_arquitectura)
-3. **¿Incluir todos los activos en Markowitz o filtrar antes con CAPM?** → [Explorar esta decisión](https://fuzzyfrog.ai/es/ai-lab/proyectos/negocios/markowitz-ml-carteras-inversion/#explorador-capm_filtro)
-4. **¿Minimizar volatilidad o maximizar el ratio de Sharpe?** → [Explorar esta decisión](https://fuzzyfrog.ai/es/ai-lab/proyectos/negocios/markowitz-ml-carteras-inversion/#explorador-markowitz_objetivo)
 
 ## Enfoque de análisis
 
-- 📈 **Indicadores técnicos como features del LSTM, no solo el precio de cierre.** SMA de 20 días, Bandas de Bollinger (20 días, 2σ), RSI de 14 días y autocorrelación de rezago 1, calculados por acción antes de entrenar, para que el modelo vea momentum y volatilidad además del nivel de precio. Referencia: Murphy, J. J. (1999). *Technical Analysis of the Financial Markets*. New York Institute of Finance.
-- 🔁 **Un LSTM de tres capas por acción, entrenado de forma independiente.** Tres capas apiladas de 50 unidades con Dropout progresivo se prefirieron sobre una arquitectura de una sola capa por su mayor capacidad de representación, a costa de más tiempo de entrenamiento. Referencia: Hochreiter, S., & Schmidhuber, J. (1997). *Long Short-Term Memory*. Neural Computation, 9(8), 1735–1780. https://doi.org/10.1162/neco.1997.9.8.1735
-- 📊 **Filtro CAPM antes de optimizar, no después.** El beta de cada activo se estimó por regresión lineal contra el S&P 500 como proxy de mercado, y solo los activos con premio por riesgo justificado entraron al optimizador, para reducir la inestabilidad numérica de Markowitz en universos grandes. Referencia: Sharpe, W. F. (1964). *Capital Asset Prices: A Theory of Market Equilibrium under Conditions of Risk*. The Journal of Finance, 19(3), 425–442. https://doi.org/10.1111/j.1540-6261.1964.tb02865.x
-- ⚖️ **Optimización de mínima volatilidad sobre la Frontera Eficiente, no máximo Sharpe.** Con `scipy.optimize.minimize` (SLSQP) sobre la matriz de covarianza, se eligió el punto más conservador de la frontera por ser numéricamente más estable frente a la incertidumbre de un rendimiento esperado que viene de una predicción. Referencia: Markowitz, H. (1952). *Portfolio Selection*. The Journal of Finance, 7(1), 77–91. https://doi.org/10.1111/j.1540-6261.1952.tb01525.x
+- 🧠 **Pronóstico de rendimientos con LSTM/GRU/Ridge/Gradient Boosting**, comparados contra la media histórica y el paseo aleatorio con R² fuera de muestra y coeficiente de información — el modelo se compara siempre contra la alternativa que no aprende nada, no solo entre sí.
+- 📉 **Filtro CAPM por alfa**: un activo solo entra al optimizador si su rendimiento pronosticado supera el mínimo que exige su riesgo de mercado. Sharpe, W. F. (1964). *Capital Asset Prices: A Theory of Market Equilibrium under Conditions of Risk*. The Journal of Finance.
+- 🧮 **Optimización de Markowitz con covarianza Ledoit-Wolf**, mínima volatilidad contra máximo Sharpe. Markowitz, H. (1952). *Portfolio Selection*. The Journal of Finance. Ledoit, O. & Wolf, M. (2004). *Honey, I Shrunk the Sample Covariance Matrix*. The Journal of Portfolio Management.
+- 🔁 **Backtest walk-forward con purga y embargo**, medido fuera de muestra y con costos contra pesos iguales y el S&P 500. DeMiguel, V., Garlappi, L. & Uppal, R. (2009). *Optimal Versus Naive Diversification: How Inefficient is the 1/N Portfolio Strategy?*. The Review of Financial Studies.
+
+## Explora las decisiones alternativas
+
+Cada decisión de abajo se corrió con las dos opciones dentro del notebook. En el artículo puedes proponer tu propia alternativa antes de ver qué hubiera pasado:
+
+- **¿Solo precio de cierre o con indicadores técnicos?** → [Explorador de decisiones](https://fuzzyfrog.ai/es/ai-lab/proyectos/negocios/markowitz-ml-carteras-inversion/#explorador-lstm_indicadores)
+- **¿Cuántas capas LSTM y cuántas unidades?** → [Explorador de decisiones](https://fuzzyfrog.ai/es/ai-lab/proyectos/negocios/markowitz-ml-carteras-inversion/#explorador-lstm_arquitectura)
+- **¿Incluir todos los activos en Markowitz o filtrar antes con CAPM?** → [Explorador de decisiones](https://fuzzyfrog.ai/es/ai-lab/proyectos/negocios/markowitz-ml-carteras-inversion/#explorador-capm_filtro)
+- **¿Minimizar volatilidad o maximizar el ratio de Sharpe?** → [Explorador de decisiones](https://fuzzyfrog.ai/es/ai-lab/proyectos/negocios/markowitz-ml-carteras-inversion/#explorador-markowitz_objetivo)
 
 ## Metas
 
-- Practicar el diseño de un pipeline donde la salida de un modelo de predicción alimenta directamente una decisión de optimización, y entender qué error se propaga y dónde.
-- Aprender a decidir cuándo un indicador técnico agrega señal real a una serie de precios y cuándo solo agrega ruido y NaN.
-- Entender qué mide el CAPM, para qué sirve como filtro previo a Markowitz y cuáles son sus supuestos.
-- Comparar minimizar volatilidad contra maximizar el ratio de Sharpe como objetivos de optimización, y saber justificar cuál usar según la calidad del rendimiento esperado con el que se cuenta.
+Al recorrer este repo vas a practicar:
+
+- Diseñar un backtest walk-forward con purga y embargo que no deja fugarse ni un solo día de información.
+- Construir features estacionarias que no crezcan sin límite, a diferencia de operar directo sobre el precio.
+- Comparar modelos con la métrica que de verdad le importa a un portafolio: el coeficiente de información, no solo el error cuadrático.
+- Decidir en qué punto del pipeline el pronóstico realmente llega a los pesos del portafolio, y en cuál se queda sin usarse.
+- Leer un checklist metodológico con aserciones que corren de verdad, no solo texto narrativo, para descartar fugas y gaps antes de confiar en un resultado.
 
 ## Recursos
 
-- [Plataforma FuzzyFrog.AI](https://fuzzyfrog.ai/es/)
-- [Artículo completo del caso, en español](https://fuzzyfrog.ai/es/ai-lab/proyectos/negocios/markowitz-ml-carteras-inversion/)
-- [Full article, in English](https://fuzzyfrog.ai/en/ai-lab/proyectos/business/markowitz-ml-portfolio-optimization/)
-- Papers citados arriba, en la sección Enfoque de análisis
-- [Notebook en Google Colab](https://colab.research.google.com/drive/1mFF8xIFR8aaeIAxjeAHtza6P6Tj6Y4Kf?usp=sharing)
-- [`diagrama-solucion.drawio`](./diagrama-solucion.drawio), editable con [draw.io](https://app.diagrams.net/)
+- **Plataforma**: [fuzzyfrog.ai](https://fuzzyfrog.ai/es/)
+- **Artículo completo**: [Optimización de carteras con Machine Learning: LSTM, CAPM y Markowitz](https://fuzzyfrog.ai/es/ai-lab/proyectos/negocios/markowitz-ml-carteras-inversion/)
+- **Papers citados**: ver [Enfoque de análisis](#enfoque-de-análisis) arriba.
+- **Notebook**: [`markowitz_ml_carteras_inversion.ipynb`](markowitz_ml_carteras_inversion.ipynb)
 
 ## Cómo usar
 
-1. Clona este repositorio o descarga la carpeta del proyecto.
-2. Abre `markowitz-ml-carteras-inversion.ipynb` en Google Colab, Jupyter o VS Code, o usa directamente la [liga de Colab](https://colab.research.google.com/drive/1mFF8xIFR8aaeIAxjeAHtza6P6Tj6Y4Kf?usp=sharing).
-3. Si lo corres fuera de Colab, instala primero las dependencias con `pip install -r requirements.txt`.
-4. Ejecuta todas las celdas en orden. Los precios se descargan en vivo desde yfinance, no requiere ningún archivo de datos local.
-5. Para probar el pipeline con tu propia lista de activos, cambia la lista de tickers y el rango de fechas en la celda de descarga, y revisa cuántas filas sobreviven al cálculo de los indicadores técnicos antes de entrenar.
+```bash
+git clone https://github.com/FuzzyFrogAI/ml-portfolio-optimization-lstm-markowitz.git
+cd ml-portfolio-optimization-lstm-markowitz
+pip install -r requirements.txt
+jupyter notebook markowitz_ml_carteras_inversion.ipynb
+```
+
+1. Clona el repositorio e instala las dependencias fijas de `requirements.txt`.
+2. Abre `markowitz_ml_carteras_inversion.ipynb` (en Jupyter local o subiéndolo a Google Colab).
+3. Córrelo de arriba a abajo. La celda 0 fija semilla, universo de activos y fechas; todo lo demás depende de esa configuración.
+4. Al final, el notebook exporta `explorador_resultados.json`: son los números de cada decisión alternativa, la misma fuente que usa el Explorador de decisiones del artículo.
 
 ---
-*Made with 💚 by FuzzyFrog.AI*
+
+Made with 💚 by FuzzyFrog.AI
