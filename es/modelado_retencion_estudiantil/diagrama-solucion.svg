@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 28 680 968" width="680" height="968" role="img" aria-labelledby="diag-sol-titulo diag-sol-desc">
+    <title id="diag-sol-titulo">Diagrama de componentes agrupado por las dos preguntas que responde el pipeline</title>
+    <desc id="diag-sol-desc">Grupo 1, qué información existe a tiempo: dataset UCI de 3,630 estudiantes con Dropout o Graduate, split estratificado 70, 15 y 15 por ciento, y corte temporal que deja solo variables de admisión y primer semestre. Grupo 2, cómo entrenar, elegir y medir sin fugas: pipeline con escalado, SMOTE y modelo dentro de cada fold, benchmarking de cinco modelos con GridSearchCV, umbral de alerta sobre validación y evaluación final en test, una sola vez, con SHAP.</desc>
+    <style>
+    .ff-svg-texto  { font-family: 'DM Sans', system-ui, sans-serif; font-size: 15px; fill: #5c7083; }
+    .ff-svg-titulo { font-family: 'Space Grotesk', system-ui, sans-serif; font-size: 18px; font-weight: 600; fill: #001f3d; }
+    .ff-svg-dato   { font-family: 'DM Sans', system-ui, sans-serif; font-size: 15px; font-weight: 600; fill: #006a87; }
+    .ff-svg-claro  { fill: #ffffff; }
+    .ff-svg-claro-2 { fill: #bfc7ce; }
+    .ff-svg-trazo  { stroke: #006a87; fill: none; }
+    .ff-svg-caja   { fill: #ffffff; stroke: #006a87; stroke-width: 1.5; }
+    .ff-svg-caja--resultado { fill: #001f3d; stroke: #001f3d; }
+    .ff-svg-grupo  { fill: none; stroke: #e0e4e8; stroke-width: 1.5; stroke-dasharray: 6 6; }
+    </style>
+    <rect x="0" y="28" width="680" height="968" fill="#ffffff"/>
+    <defs>
+        <marker id="arrow-desercion" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+            <path d="M2 1L8 5L2 9" class="ff-svg-trazo" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </marker>
+    </defs>
+
+    <!-- Grupo 1 -->
+    <rect x="60" y="40" width="560" height="416" rx="16" class="ff-svg-grupo"/>
+    <text x="84" y="72" class="ff-svg-texto">Pregunta 1 ➲ ¿qué información existe a tiempo para alertar?</text>
+
+    <rect x="110" y="96" width="460" height="92" rx="8" class="ff-svg-caja"/>
+    <text x="340" y="126" text-anchor="middle" class="ff-svg-titulo">Dataset UCI</text>
+    <text x="340" y="152" text-anchor="middle" class="ff-svg-texto">Dropout contra Graduate ➲ 3,630 estudiantes reales</text>
+    <text x="340" y="174" text-anchor="middle" class="ff-svg-dato">36 variables · 39.1% deserción</text>
+    <line x1="340" y1="188" x2="340" y2="220" class="ff-svg-trazo" stroke-width="1.5" marker-end="url(#arrow-desercion)"/>
+
+    <rect x="110" y="224" width="460" height="92" rx="8" class="ff-svg-caja"/>
+    <text x="340" y="254" text-anchor="middle" class="ff-svg-titulo">Split estratificado</text>
+    <text x="340" y="280" text-anchor="middle" class="ff-svg-texto">70% entrenamiento · 15% validación · 15% prueba</text>
+    <text x="340" y="302" text-anchor="middle" class="ff-svg-dato">misma proporción de deserción en las tres</text>
+    <line x1="340" y1="316" x2="340" y2="348" class="ff-svg-trazo" stroke-width="1.5" marker-end="url(#arrow-desercion)"/>
+
+    <rect x="110" y="352" width="460" height="92" rx="8" class="ff-svg-caja"/>
+    <text x="340" y="382" text-anchor="middle" class="ff-svg-titulo">Corte temporal</text>
+    <text x="340" y="408" text-anchor="middle" class="ff-svg-texto">Solo lo que existe antes del 2do semestre</text>
+    <text x="340" y="430" text-anchor="middle" class="ff-svg-dato">30 variables de admisión y 1er semestre</text>
+
+    <!-- Conexión entre grupos -->
+    <line x1="340" y1="444" x2="340" y2="492" class="ff-svg-trazo" stroke-width="1.5" marker-end="url(#arrow-desercion)"/>
+    <text x="356" y="478" class="ff-svg-texto">variables tempranas</text>
+
+    <!-- Grupo 2 -->
+    <rect x="60" y="496" width="560" height="492" rx="16" class="ff-svg-grupo"/>
+    <text x="84" y="528" class="ff-svg-texto">Pregunta 2 ➲ ¿cómo entrenar, elegir y medir sin fugas?</text>
+
+    <rect x="110" y="548" width="460" height="72" rx="8" class="ff-svg-caja"/>
+    <text x="340" y="578" text-anchor="middle" class="ff-svg-titulo">Pipeline sin fuga</text>
+    <text x="340" y="604" text-anchor="middle" class="ff-svg-texto">Escalado + SMOTE + modelo, dentro de cada fold</text>
+    <line x1="340" y1="620" x2="340" y2="652" class="ff-svg-trazo" stroke-width="1.5" marker-end="url(#arrow-desercion)"/>
+
+    <rect x="110" y="656" width="460" height="72" rx="8" class="ff-svg-caja"/>
+    <text x="340" y="686" text-anchor="middle" class="ff-svg-titulo">Benchmarking y afinación</text>
+    <text x="340" y="712" text-anchor="middle" class="ff-svg-texto">5 modelos con validación cruzada + GridSearchCV</text>
+    <line x1="340" y1="728" x2="340" y2="760" class="ff-svg-trazo" stroke-width="1.5" marker-end="url(#arrow-desercion)"/>
+
+    <rect x="110" y="764" width="460" height="72" rx="8" class="ff-svg-caja"/>
+    <text x="340" y="794" text-anchor="middle" class="ff-svg-titulo">Umbral de alerta</text>
+    <text x="340" y="820" text-anchor="middle" class="ff-svg-texto">Curva precisión-recall sobre validación</text>
+    <line x1="340" y1="836" x2="340" y2="868" class="ff-svg-trazo" stroke-width="1.5" marker-end="url(#arrow-desercion)"/>
+
+    <rect x="110" y="872" width="460" height="72" rx="8" class="ff-svg-caja ff-svg-caja--resultado"/>
+    <text x="340" y="902" text-anchor="middle" class="ff-svg-titulo ff-svg-claro">Evaluación final</text>
+    <text x="340" y="928" text-anchor="middle" class="ff-svg-texto ff-svg-claro-2">Test, una sola vez, y SHAP</text>
+</svg>
