@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 28 680 1200" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="diag-sol-titulo diag-sol-desc">
+  <style>
+    .ff-svg-grupo { fill: none; stroke: #006a87; stroke-width: 1.5; stroke-dasharray: 4 4; }
+    .ff-svg-caja { fill: #ffffff; stroke: #006a87; stroke-width: 1.5; }
+    .ff-svg-caja--resultado { fill: #001f3d; stroke: #001f3d; }
+    .ff-svg-titulo { font-family: 'Space Grotesk', Arial, sans-serif; font-size: 18px; font-weight: 700; fill: #001f3d; }
+    .ff-svg-texto { font-family: 'DM Sans', Arial, sans-serif; font-size: 15px; fill: #001f3d; }
+    .ff-svg-dato { font-family: 'DM Sans', Arial, sans-serif; font-size: 13px; fill: #006a87; font-style: italic; }
+    .ff-svg-trazo { stroke: #006a87; fill: none; }
+    .ff-svg-claro { fill: #ffffff; }
+    .ff-svg-claro-2 { fill: #b9f3e6; }
+  </style>
+            <title id="diag-sol-titulo">Diagrama de componentes agrupado por las dos preguntas que responde el pipeline</title>
+            <desc id="diag-sol-desc">Grupo 1 (datos legítimos): datos de control de calidad, división por fecha, edad de resistencia a predecir y reducción dimensional ajustada solo con entrenamiento. Grupo 2 (predicción sin fuga): benchmarking y afinación de modelos, test de estabilidad con bootstrap, evaluación final contra el conjunto de prueba y despliegue como API probada con una solicitud real.</desc>
+            <defs>
+                <marker id="arrow-cem" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                    <path d="M2 1L8 5L2 9" class="ff-svg-trazo" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                </marker>
+            </defs>
+
+            <!-- Grupo 1 -->
+            <rect x="60" y="40" width="560" height="544" rx="16" class="ff-svg-grupo"/>
+            <text x="84" y="72" class="ff-svg-texto">Pregunta 1 ➲ ¿qué datos son legítimos para predecir la resistencia?</text>
+
+            <rect x="110" y="96" width="460" height="92" rx="8" class="ff-svg-caja"/>
+            <text x="340" y="126" text-anchor="middle" class="ff-svg-titulo">Datos QC del cemento</text>
+            <text x="340" y="152" text-anchor="middle" class="ff-svg-texto">Composición química y de proceso, control de calidad de planta</text>
+            <text x="340" y="174" text-anchor="middle" class="ff-svg-dato">Clínker · óxidos · Bogue · fraguado · fluidez</text>
+            <line x1="340" y1="188" x2="340" y2="220" class="ff-svg-trazo" stroke-width="1.5" marker-end="url(#arrow-cem)"/>
+
+            <rect x="110" y="224" width="460" height="92" rx="8" class="ff-svg-caja"/>
+            <text x="340" y="254" text-anchor="middle" class="ff-svg-titulo">División por fecha</text>
+            <text x="340" y="280" text-anchor="middle" class="ff-svg-texto">80% más antiguo entrena, 20% más reciente prueba</text>
+            <text x="340" y="302" text-anchor="middle" class="ff-svg-dato">train = pasado · test = futuro</text>
+            <line x1="340" y1="316" x2="340" y2="348" class="ff-svg-trazo" stroke-width="1.5" marker-end="url(#arrow-cem)"/>
+
+            <rect x="110" y="352" width="460" height="92" rx="8" class="ff-svg-caja"/>
+            <text x="340" y="382" text-anchor="middle" class="ff-svg-titulo">Edad de resistencia</text>
+            <text x="340" y="408" text-anchor="middle" class="ff-svg-texto">Se predice RC a 1 día; las 4 columnas de RC quedan fuera de X</text>
+            <text x="340" y="430" text-anchor="middle" class="ff-svg-dato">alerta temprana, no el estándar a 28 días</text>
+            <line x1="340" y1="444" x2="340" y2="476" class="ff-svg-trazo" stroke-width="1.5" marker-end="url(#arrow-cem)"/>
+
+            <rect x="110" y="480" width="460" height="92" rx="8" class="ff-svg-caja"/>
+            <text x="340" y="510" text-anchor="middle" class="ff-svg-titulo">Reducción dimensional</text>
+            <text x="340" y="536" text-anchor="middle" class="ff-svg-texto">VarianceThreshold ajustado solo con entrenamiento</text>
+            <text x="340" y="558" text-anchor="middle" class="ff-svg-dato">32 variables → 20 retenidas</text>
+
+            <!-- Conexión entre grupos -->
+            <line x1="340" y1="572" x2="340" y2="620" class="ff-svg-trazo" stroke-width="1.5" marker-end="url(#arrow-cem)"/>
+            <text x="356" y="604" class="ff-svg-texto">variables seleccionadas, sin fuga</text>
+
+            <!-- Grupo 2 -->
+            <rect x="60" y="628" width="560" height="544" rx="16" class="ff-svg-grupo"/>
+            <text x="84" y="660" class="ff-svg-texto">Pregunta 2 ➲ ¿qué tan bien predice, y cómo se demuestra sin fuga?</text>
+
+            <rect x="110" y="684" width="460" height="92" rx="8" class="ff-svg-caja"/>
+            <text x="340" y="714" text-anchor="middle" class="ff-svg-titulo">Benchmarking y afinación</text>
+            <text x="340" y="740" text-anchor="middle" class="ff-svg-texto">Random Forest, SVR y KNN comparados con validación cruzada</text>
+            <text x="340" y="762" text-anchor="middle" class="ff-svg-dato">Random Forest gana con RMSE 108.96 psi</text>
+            <line x1="340" y1="776" x2="340" y2="808" class="ff-svg-trazo" stroke-width="1.5" marker-end="url(#arrow-cem)"/>
+
+            <rect x="110" y="812" width="460" height="92" rx="8" class="ff-svg-caja"/>
+            <text x="340" y="842" text-anchor="middle" class="ff-svg-titulo">Test de estabilidad</text>
+            <text x="340" y="868" text-anchor="middle" class="ff-svg-texto">20 réplicas de bootstrap sobre train, siempre contra el mismo test</text>
+            <text x="340" y="890" text-anchor="middle" class="ff-svg-dato">coeficiente de variación 0.036</text>
+            <line x1="340" y1="904" x2="340" y2="936" class="ff-svg-trazo" stroke-width="1.5" marker-end="url(#arrow-cem)"/>
+
+            <rect x="110" y="940" width="460" height="92" rx="8" class="ff-svg-caja"/>
+            <text x="340" y="970" text-anchor="middle" class="ff-svg-titulo">Evaluación final</text>
+            <text x="340" y="996" text-anchor="middle" class="ff-svg-texto">Una sola vez, contra el conjunto de prueba nunca tocado</text>
+            <text x="340" y="1018" text-anchor="middle" class="ff-svg-dato">RMSE 102.71 psi · MAE 81.72 psi</text>
+            <line x1="340" y1="1032" x2="340" y2="1064" class="ff-svg-trazo" stroke-width="1.5" marker-end="url(#arrow-cem)"/>
+
+            <rect x="110" y="1068" width="460" height="92" rx="8" class="ff-svg-caja ff-svg-caja--resultado"/>
+            <text x="340" y="1100" text-anchor="middle" class="ff-svg-titulo ff-svg-claro">Modelo desplegado</text>
+            <text x="340" y="1126" text-anchor="middle" class="ff-svg-texto ff-svg-claro-2">API FastAPI + túnel ngrok, probada con una solicitud real</text>
+        </svg>
