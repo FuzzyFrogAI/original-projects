@@ -64,6 +64,10 @@ Al recorrer este repositorio vas a practicar:
 - Bergmeir, C. & Benítez, J.M. (2012). *On the use of cross-validation for time series predictor evaluation.* Information Sciences.
 - Breiman, L. (2001). *Random Forests.* Machine Learning, 45(1), 5-32.
 - Efron, B. & Tibshirani, R.J. (1993). *An Introduction to the Bootstrap.* Chapman & Hall/CRC.
+- **Referencias recientes sobre el mismo problema** «citadas en la sección de Limitaciones del artículo, no son trabajo propio»:
+  - [Rapid on-site prediction of concrete compressive strength using integrated machine learning and non-destructive testing](https://link.springer.com/article/10.1007/s42107-026-01753-0) (2026).
+  - Palanisamy et al. (2025). [Prediction of early age compressive strength of concrete using machine learning](https://www.nature.com/articles/s41598-025-29233-6). Scientific Reports, 15, 45293.
+  - Nikoopayan Tak, M.S., Feng, Y. & Mahgoub, M. (2025). [Advanced Machine Learning Techniques for Predicting Concrete Compressive Strength](https://doi.org/10.3390/infrastructures10020026). Infrastructures, 10(2), 26.
 - [`resistencia_compresion_cemento.ipynb`](./resistencia_compresion_cemento.ipynb) — el notebook completo
 
 ## Cómo usar
